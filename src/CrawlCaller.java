@@ -26,12 +26,12 @@ public class CrawlCaller {
 
         case "2":
         case "BFS crawl":
-          crawl.crawlBreadthFirst();
+          crawl.crawlBreadthFirst(false);
           break;
 
         case "3":
         case "Focused crawl":
-          crawl.crawlFocussed();
+          crawl.crawlBreadthFirst(true);
           break;
 
         case "y":
@@ -39,10 +39,12 @@ public class CrawlCaller {
           String newSeedURL = scan.next();
           System.out.println("Enter maxDepth: ");
           int newMaxDepth = scan.nextInt();
+          System.out.println("Enter pageCount: ");
+          int newPageCount = scan.nextInt();
           System.out
               .println("Enter Focused crawl keywords, comma separated: ");
           String[] newFocusedCrawlKeywords = scan.next().split(",");
-          config = new CrawlConfig(newSeedURL, newMaxDepth,
+          config = new CrawlConfig(newSeedURL, newMaxDepth, newPageCount,
               newFocusedCrawlKeywords);
           continue;
 
