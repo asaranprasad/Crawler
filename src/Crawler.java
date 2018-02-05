@@ -17,9 +17,10 @@ import org.jsoup.select.Elements;
 public class Crawler {
   private CrawlConfig config;
   private Queue<String> frontier;
+  private HashSet<String> visited;
+  private int pagesCrawled;
   PrintWriter output;
   PrintWriter docsDownload;
-  private HashSet<String> visited;
 
 
   public Crawler() {
@@ -32,6 +33,7 @@ public class Crawler {
     frontier = new LinkedList<String>();
     visited = new HashSet<String>();
     frontier.add(config.getSeedURL());
+    pagesCrawled = 0;
   }
 
 
@@ -57,14 +59,15 @@ public class Crawler {
     output.close();
 
 
-    // complete downloading from pending crawls
-    while (visited.size() < pageCount) {
-      String nextUrl = frontier.poll();
-      if (nextUrl == null)
-        continue;
-      loadFromURL(nextUrl, shouldDownload);
-      System.out.println(visited.size() + ". loaded: " + nextUrl);
-    }
+    if (!isFocused)
+      // complete downloading from pending crawls
+      while (pagesCrawled < pageCount) {
+        String nextUrl = frontier.poll();
+        if (nextUrl == null)
+          continue;
+        loadFromURL(nextUrl, shouldDownload);
+        System.out.println(pagesCrawled + ". loaded: " + nextUrl);
+      }
     docsDownload.close();
   }
 
@@ -78,7 +81,13 @@ public class Crawler {
     for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
       String text = urlTxtPairs.get(i)[1];
       String url = urlTxtPairs.get(i)[0];
+
+      // check if url has already been registered
+      if (visited.contains(url))
+        continue;
+
       frontier.add(url);
+      visited.add(url);
 
       println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
       System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
@@ -153,6 +162,12 @@ public class Crawler {
     for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
       String text = urlTxtPairs.get(i)[1];
       String url = urlTxtPairs.get(i)[0];
+
+      // check if url has already been registered
+      if (visited.contains(url))
+        continue;
+      visited.add(url);
+
       println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
 
       System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
@@ -224,12 +239,8 @@ public class Crawler {
     try {
       Thread.sleep(config.getPolitenessWait());
 
-      // check if URL not already visited
-      if (visited.contains(url))
-        return null;
-
       Document page = Jsoup.connect(url).timeout(10000).get();
-      visited.add(url);
+      pagesCrawled++;
 
       if (shouldDownload)
         storeDocTrecFormat(url, page);
