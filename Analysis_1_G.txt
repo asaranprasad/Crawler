@@ -1,0 +1,10 @@
+URL count: 1000
+Time Taken in nanoseconds
+DFS         : 13818677341
+BFS         : 8698663628
+FocusedCrawl: 489266054080
+
+Max Depth:
+DFS         : 6
+BFS         : 2
+FocusedCrawl: 4

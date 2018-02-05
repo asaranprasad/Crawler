@@ -772,14 +772,14 @@ Count | Text | Depth | URL
 771 | trilingualism | 6 | https://en.wikipedia.org/wiki/Trilingualism
 772 | Meisel, Jürgen M. | 6 | https://en.wikipedia.org/wiki/Jurgen_M._Meisel
 773 | multilingual | 5 | https://en.wikipedia.org/wiki/Multilingual
-774 | Swiss | 6 | https://en.wikipedia.org/wiki/Switzerland
-775 | Federal administration | 6 | https://en.wikipedia.org/wiki/Federal_administration_of_Switzerland
-776 | four national languages of Switzerland | 6 | https://en.wikipedia.org/wiki/Languages_of_Switzerland
-777 | German | 6 | https://en.wikipedia.org/wiki/German_language
-778 | Romansh | 6 | https://en.wikipedia.org/wiki/Romansh_language
-779 | Europeans | 6 | https://en.wikipedia.org/wiki/Europeans
-780 | monoscriptual | 6 | https://en.wikipedia.org/wiki/Multiscriptualism
-781 | polyglots | 6 | https://en.wikipedia.org/wiki/Polyglotism
+774 | Polyglotism | 6 | https://en.wikipedia.org/wiki/Polyglotism
+775 | Swiss | 6 | https://en.wikipedia.org/wiki/Switzerland
+776 | Federal administration | 6 | https://en.wikipedia.org/wiki/Federal_administration_of_Switzerland
+777 | four national languages of Switzerland | 6 | https://en.wikipedia.org/wiki/Languages_of_Switzerland
+778 | German | 6 | https://en.wikipedia.org/wiki/German_language
+779 | Romansh | 6 | https://en.wikipedia.org/wiki/Romansh_language
+780 | Europeans | 6 | https://en.wikipedia.org/wiki/Europeans
+781 | monoscriptual | 6 | https://en.wikipedia.org/wiki/Multiscriptualism
 782 | minority language | 6 | https://en.wikipedia.org/wiki/Minority_language
 783 | internationalization and localization | 6 | https://en.wikipedia.org/wiki/Internationalization_and_localization
 784 | English in computing | 6 | https://en.wikipedia.org/wiki/English_in_computing
