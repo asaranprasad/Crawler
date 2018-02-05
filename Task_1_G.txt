@@ -1,0 +1,35 @@
+Breadth-First and Depth-First crawling
+--------------------------------------
+URL count   : 1000
+
+# Time Taken in nanoseconds
+DFS         : 13818677341
+BFS         : 8698663628
+
+# Max Depth
+DFS         : 6
+BFS         : 2
+
+# Coverage of the Crawl Topic:
+	1. Wrote a method urlsHaveValidVariations() in the Tests.java class to find out the percentage of the urls from the crawl is relevant to the crawl topic.
+	2. Breadth-First Traversal : 14.485514 %
+	3. Depth-First Traversal   : 0.2997003 %
+
+# URL OverLap
+	1. Wrote a method findURLOverlap() in the Tests.java class to find the number of URLS overlapping between DFS and BFS traversals.
+	2. Found 27 overlapping URLS, that is 2.7% of the total URLs in each lists.
+
+# Perceived Quality
+	1. Skimming through the crawled links from Depth First and Breadth First traversals, it could be inferred that the Depth First approach produces results which quickly starts deviating from the initial topic of interest.
+	2. The Breadth-First traversal approach relatively maintains a better correlation to the seed crawl topic.
+
+# Efficiency Aspect:
+	1. Space: 
+			a. The Breadth-First approach depends heavily on fronter queue to keep track of the nodes in a particular level, the space complexity is of exponential order.
+			b. The Depth-First approach only keeps track of the current path it traversed, leading to a considerably less space complexity of logarithmic order.
+
+	2. Time: 
+			a. Considering the rough estimates from the run, it could be observed that both the Breadth first and Depth first approaches take almost the same time in traversing a given number of nodes.
+			b. The DFS seems to take a little more time since for the first 1000 URLs, DFS visited more nodes to collect it, while BFS collected the same number of URLs from lesser depth without much network call latency.
+
+

@@ -35,6 +35,7 @@ public class Crawler {
     frontier = new LinkedList<String>();
     visited = new HashSet<String>();
     frontier.add(config.getSeedURL());
+    visited.add(config.getSeedURL());
     pagesCrawled = 0;
   }
 

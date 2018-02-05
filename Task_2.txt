@@ -1,0 +1,12 @@
+Focussed Crawl
+--------------
+Keywords given           : 1. moon 2. lunar
+URL count                : 1000
+Time Taken in nanoseconds: 489266054080
+Max Depth reached        : 4
+
+Handling Keyword variations:
+The performFocusedFilter() method handles matching keyword variations, with,
+	1. Case Folding of keywords, URLs and anchor texts under comparison.
+	2. Looking whether the keywords are a substring in either the URLs or anchor texts.
+	3. Attempted to do handle the Word Break Problem. But resorted to not doing it owing to the space overhead of maintaing a dictionary of 500K strings.

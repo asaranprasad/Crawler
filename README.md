@@ -13,7 +13,7 @@ The ./src/ folder consists of source code files
 4. Tests.java       - Consists of tests to validate the crawler ouputs.
 ```
 
-The ./output/ folder consists of the outputs of the call
+The ./output/ folder consists of sample outputs of the call
 ```
 1. crawlBreadthFirst.txt - First 1000 urls from breadth first traversal.
 2. crawlDepthFirst.txt   - First 1000 urls from depth first traversal.
@@ -21,6 +21,8 @@ The ./output/ folder consists of the outputs of the call
 ```
 
 ### External Libraries Referenced
+
+The following external library might need to be referenced to the build path, or via using a Maven dependency.
 
 1. JSoup
 
@@ -31,6 +33,8 @@ The ./output/ folder consists of the outputs of the call
     <version>1.9.2</version>
 </dependency>
 ```
+
+The above library has also been included in the ./externalLibrary/ folder
 
 ### Maximum Depth Reached
 
