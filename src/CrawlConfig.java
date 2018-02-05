@@ -4,16 +4,22 @@ import java.util.List;
 public class CrawlConfig {
 
   private String seedURL;
+  private String baseUri;
   private int maxDepth;
   private int pageCount;
   private String outputFolderPath;
+  private String docsDownloadPath;
+  private int politenessWait;
   private List<String> focusedCrawlKeywords;
 
   CrawlConfig() {
     seedURL = "https://en.wikipedia.org/wiki/Solar_eclipse";
+    baseUri = "https://en.wikipedia.org";
     maxDepth = 6;
     pageCount = 1000;
     outputFolderPath = "./output/";
+    docsDownloadPath = outputFolderPath + "BFSCrawledDocuments.txt";
+    politenessWait = 1000;
     focusedCrawlKeywords = new ArrayList<String>();
     focusedCrawlKeywords.add("lunar");
     focusedCrawlKeywords.add("moon");
@@ -52,6 +58,18 @@ public class CrawlConfig {
 
   public String getOutputFolderPath() {
     return outputFolderPath;
+  }
+
+  public String getdocsDownloadPath() {
+    return docsDownloadPath;
+  }
+
+  public int getPolitenessWait() {
+    return politenessWait;
+  }
+
+  public String getBaseUri() {
+    return baseUri;
   }
 
   public List<String> getFocusedCrawlKeywords() {

@@ -2,13 +2,11 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.PriorityQueue;
 import java.util.Queue;
-import java.util.Set;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -18,11 +16,14 @@ public class Crawler {
   private CrawlConfig config;
   private Queue<String> frontier;
   PrintWriter output;
+  PrintWriter docsDownload;
   private HashSet<String> visited;
+
 
   public Crawler() {
     this(new CrawlConfig());
   }
+
 
   public Crawler(CrawlConfig config) {
     this.config = config;
@@ -31,242 +32,158 @@ public class Crawler {
     frontier.add(config.getSeedURL());
   }
 
-  public void crawlBreadthFirst(boolean isFocused) {
 
-
-    // saveDoc(config.getOutputFolderPath() + "BFSCrawledDocuments.txt");
-
-  }
-
-  public void crawlDepthFirst() throws FileNotFoundException {
-    output = new PrintWriter(config.getOutputFolderPath() + "crawlDepthFirst.txt");
-    output.println("Count | Text | Depth | URL");
+  public void crawlBreadthFirst(boolean isFocused) throws FileNotFoundException {
+    docsDownload = new PrintWriter(config.getdocsDownloadPath());
+    output = new PrintWriter(config.getOutputFolderPath() + "crawlBreadthFirst.txt");
+    println(output, "Count | Text | Depth | URL");
 
     int depth = 1;
     int pageCount = 1;
     String currentURL = frontier.poll();
 
-    output.println(pageCount + " | Seed | " + depth + " | " + currentURL);
+    println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
 
-    dfs(loadFromURL(currentURL), depth, pageCount);
+    bfs(loadFromURL(currentURL, true), depth, pageCount);
     output.close();
   }
 
-  private int dfs(Document page, int depth, int pageCount) {
-    List<String[]> urlsInPage = getValidURLsFromPage(page);
+  private int bfs(Document page, int depth, int pageCount) {
+    List<String[]> urlTxtPairs = getValidURLsFromPage(page);
 
-    for (int i = 0; i < urlsInPage.size(); i++) {
-      output.println((++pageCount) + " | " + urlsInPage.get(i)[1] + " | " + depth + " | "
-          + urlsInPage.get(i)[0]);
+    for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
+      String text = urlTxtPairs.get(i)[1];
+      String url = urlTxtPairs.get(i)[0];
+      frontier.add(url);
 
-      if (pageCount >= 1000)
-        break;
+      println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
+      System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
 
-      if (depth < 6)
-        pageCount = dfs(loadFromURL(urlsInPage.get(i)[0]), depth + 1, pageCount);
-
+      if (pageCount >= config.getPageCount())
+        return pageCount;
     }
+
+    if (depth < 6)
+      pageCount = bfs(loadFromURL(frontier.poll(), true), depth + 1, pageCount);
 
     return pageCount;
   }
 
-  private List<String[]> getValidURLsFromPage(Document page) {
-    // Including only the content portion of the page
-    Elements hyperLinks = page.select("#mw-content-text").tagName("a");
 
 
-    // deduct urls visited
+  public void crawlDepthFirst() throws FileNotFoundException {
+    output = new PrintWriter(config.getOutputFolderPath() + "crawlDepthFirst.txt");
+    println(output, "Count | Text | Depth | URL");
 
-    return null;
+    int depth = 1;
+    int pageCount = 1;
+    String currentURL = frontier.poll();
+
+    println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
+
+    dfs(loadFromURL(currentURL, false), depth, pageCount);
+    output.close();
   }
 
-  private Document loadFromURL(String URL) {
+
+  private int dfs(Document page, int depth, int pageCount) {
+    List<String[]> urlTxtPairs = getValidURLsFromPage(page);
+
+    for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
+      String text = urlTxtPairs.get(i)[1];
+      String url = urlTxtPairs.get(i)[0];
+      println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
+
+      System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
+
+      if (pageCount >= config.getPageCount())
+        break;
+
+      if (depth < 6)
+        pageCount = dfs(loadFromURL(url, false), depth + 1, pageCount);
+    }
+    return pageCount;
+  }
+
+  private void println(PrintWriter output, String string) {
+    output.println(string);
+    output.flush();
+  }
+
+
+  private List<String[]> getValidURLsFromPage(Document page) {
+    List<String[]> urlTxtPairs = new ArrayList<String[]>();
+    HashSet<String> currentSet = new HashSet<String>();
+
+    page.setBaseUri(config.getBaseUri());
+
+    // Preprocessing
+    // Including only the content portion of the page
+    page.select("[role=navigation]").remove();
+    page.select("[class='external text']").remove();
+    page.select("[class*='navigation']").remove();
+    Elements hyperLinks = page.select("#mw-content-text a");
+
+    // Exclude urls out of the current domain
+    Iterator<Element> iter = hyperLinks.iterator();
+    while (iter.hasNext()) {
+      Element anchor = (Element) iter.next();
+      String href = anchor.absUrl("href");
+      String plainHref = anchor.attr("href");
+      String anchorClass = anchor.attr("class");
+
+
+      // remove images and other irrelevant redirections
+      boolean removeCondition = !href.contains("en.wikipedia.org");
+      removeCondition = removeCondition || anchorClass.equals("image");
+      removeCondition = removeCondition || anchorClass.equals("internal");
+      removeCondition = removeCondition || anchorClass.equals("mw-wiki-logo");
+      removeCondition = removeCondition || href.contains("#");
+      removeCondition = removeCondition || plainHref.contains(":");
+      removeCondition = removeCondition || !plainHref.startsWith("/wiki/");
+
+      // exclude pages already visited
+      if (removeCondition || visited.contains(href))
+        iter.remove();
+
+      else if (!currentSet.contains(href)) {
+        String[] urlTxtPair = new String[2];
+        urlTxtPair[0] = href;
+        urlTxtPair[1] = anchor.text().trim();
+        urlTxtPairs.add(urlTxtPair);
+        currentSet.add(href);
+      }
+    }
+    return urlTxtPairs;
+
+  }
+
+
+  private Document loadFromURL(String url, boolean shouldBackup) {
     try {
-      visited.add(URL);
-      return Jsoup.connect(URL).get();
+      Thread.sleep(config.getPolitenessWait());
+      visited.add(url);
+      Document page = Jsoup.connect(url).get();
+
+      if (shouldBackup) {
+        println(docsDownload, "URL: " + url);
+        println(docsDownload, page.outerHtml());
+        println(docsDownload, "--------------------------");
+      }
+
+
+      return page;
     } catch (IOException e) {
       e.printStackTrace();
+    } catch (InterruptedException ie) {
+      ie.printStackTrace();
     }
     return null;
   }
-
 
 
   private void saveDoc(String string) {
     // TODO Auto-generated method stub
 
-  }
-
-  public Document removeExcludedElements(LocalizationBasePage page,
-      String pageString, String pageNameOptional) {
-    Document doc = loadFromString(pageString);
-
-    try {
-      //default elements for exclusion
-      doc.select("[style*='display:none']").not("select").remove();
-      doc.select("[style*='display: none']").not("select").remove();
-      doc.select("[style*='display :none']").not("select").remove();
-      doc.select("[style*='display : none']").not("select").remove();
-      doc.select("div.localization-dropdown").remove();
-      doc.select("div[class*='disclaimer']").remove();//disclaimer footer
-      doc.select("[itemprop*='ddress']").remove();//address type
-      doc.select("[itemprop^='street']").remove();//street type
-      doc.select(".dropdown-menu").remove(); //sub-menu nav items
-      doc.select("[type=hidden]").remove();
-      doc.select(".sr-only").remove(); //reading assistance class attribute
-      doc.select("address").remove();
-      doc.select("sup").remove();//Registered, Trademark and other superscripts
-      doc.select("[style*='-10000px']").remove();
-      doc.select(".hide").remove();
-      doc.select("noscript").remove();
-      doc.select("script").remove();
-      doc.select("head").remove();
-      doc.select("style").remove();
-      doc.select("meta").remove();
-      doc.select("link").remove();
-      doc.select("comment").remove();
-      doc.select("CDATA").remove();
-
-      //exclusion list specific to a page
-      List<String> exceptionCSSList;
-      try {
-        if (pageNameOptional == null)
-          exceptionCSSList = utils.textFileToList(
-              "txt/lcnExcludedCSSList_" + page.getPageName() + ".txt");
-        else
-          exceptionCSSList = utils.textFileToList("txt/" + pageNameOptional);
-      } catch (Exception fe) {
-        return doc;
-      }
-      for (String eachCSSQuery : exceptionCSSList) {
-        try {
-          // ignoring comments
-          if (eachCSSQuery.startsWith("--") || eachCSSQuery.isEmpty()) {
-            continue;
-          }
-
-          // linkToAnother Exclusion File
-          if (eachCSSQuery.startsWith("linkToAnotherFile")) {
-            if (!eachCSSQuery.contains("=="))
-              continue;
-            else {
-              doc = removeExcludedElements(page, pageString,
-                  eachCSSQuery.split("==")[1]);
-              continue;
-            }
-          }
-
-          // removing DOM elements based on each locator from the exclusion file.
-          if (eachCSSQuery.contains("==")) {
-            Element element =
-                doc.select(eachCSSQuery.split("==")[1]).first();
-            if (element != null)
-              doc.select(eachCSSQuery.split("==")[1]).remove();
-          }
-
-        } catch (Exception e) {
-          e.printStackTrace();
-        }
-      }
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
-    return doc;
-  }
-
-  public List<String> getIndividualTextsFromPageSource(
-      LocalizationBasePage page, String selectiveContainerText) {
-    List<String> individualTagText = new ArrayList<String>();
-    try {
-
-      String pageString = selectiveContainerText;
-      if (pageString == null)
-        pageString = page.pageSource();
-
-
-      Document doc = removeExcludedElements(page, pageString, null);
-
-      Elements all = doc.getAllElements();
-
-      Set<String> elementList = new HashSet<String>();
-
-      for (Element eachElement : all) {
-        elementList.add(eachElement.tagName());
-      }
-
-      for (String eachTag : elementList) {
-        String tagName = eachTag.split(":")[0];
-        Elements tag = doc.select(tagName);
-
-        for (Element label : tag) {
-
-          // 1. Inner Tag text
-          String labelTxt = label.ownText();
-          if (!labelTxt.isEmpty())
-            addToStringListExcludingStandardExceptions(labelTxt,
-                individualTagText);
-
-          // 2. Alt Tag text
-
-          // 3. Title Tag text
-          String labelTitle = label.attr("title").trim();
-          if (!labelTitle.isEmpty())
-            addToStringListExcludingStandardExceptions(labelTitle,
-                individualTagText);
-        }
-      }
-    } catch (Exception e) {
-    }
-    return individualTagText;
-  }
-
-
-
-  private boolean isSubStringInList(String biggerString,
-      List<String> lstofSubStrings) {
-    for (String eachSubString : lstofSubStrings) {
-      if (biggerString.contains(eachSubString)
-          || biggerString.equals(eachSubString))
-        return true;
-    }
-    return false;
-  }
-
-  private void addToStringListExcludingStandardExceptions(String labelText,
-      List<String> individualTagText) {
-    if (checkForDuplicatedPunctuation(labelText))
-      lstLiteralsFoundWithDuplicatedPunctuation.add(labelText);
-
-
-    labelText = removeLeadingTrailingPunctuation(labelText);
-
-    // configurable exclusion logic
-    List<String> exceptionWholeStrings = utils
-        .textFileToList("txt/localizationsExcludedWholeStringLiterals.txt");
-    List<String> exceptionSubStrings = utils
-        .textFileToList("txt/localizationsExcludedSubStringLiterals.txt");
-
-    if (!exceptionWholeStrings.contains(labelText))
-      if (!isSubStringInList(labelText, exceptionSubStrings))
-        if (labelText.trim().length() > 1) {
-          // System.out.println("text: " + labelText);
-          addExcludingExceptions(individualTagText, labelText);
-        }
-
-  }
-
-  public void addExcludingExceptions(List<String> individualTagText,
-      String labelText) {
-    try {
-      // exception list - Apostrophe s
-      if (labelText.equals("s"))
-        return;
-      // default
-      else
-        individualTagText.add(labelText);
-
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
   }
 }

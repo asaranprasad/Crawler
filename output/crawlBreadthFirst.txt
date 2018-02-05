@@ -1,0 +1,195 @@
+Count | Text | Depth | URL
+1 | Seed | 1 | https://en.wikipedia.org/wiki/Solar_eclipse
+2 | 1999 solar eclipse | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_1999
+3 | Solar prominences | 1 | https://en.wikipedia.org/wiki/Solar_prominence
+4 | coronal | 1 | https://en.wikipedia.org/wiki/Corona
+5 | May 20, 2012 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_20,_2012
+6 | October 23, 2014 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_2014
+7 | Earth | 1 | https://en.wikipedia.org/wiki/Earth
+8 | eclipse | 1 | https://en.wikipedia.org/wiki/Eclipse
+9 | Moon | 1 | https://en.wikipedia.org/wiki/Moon
+10 | Sun | 1 | https://en.wikipedia.org/wiki/Sun
+11 | occults | 1 | https://en.wikipedia.org/wiki/Occultation
+12 | new moon | 1 | https://en.wikipedia.org/wiki/New_moon
+13 | conjunction | 1 | https://en.wikipedia.org/wiki/Conjunction_(astronomy_and_astrology)
+14 | syzygy | 1 | https://en.wikipedia.org/wiki/Syzygy_(astronomy)
+15 | orbital plane | 1 | https://en.wikipedia.org/wiki/Ecliptic
+16 | tilted | 1 | https://en.wikipedia.org/wiki/Inclination
+17 | lunar | 1 | https://en.wikipedia.org/wiki/Lunar_eclipse
+18 | apparent size | 1 | https://en.wikipedia.org/wiki/Apparent_size
+19 | line of nodes | 1 | https://en.wikipedia.org/wiki/Line_of_nodes
+20 | umbra | 1 | https://en.wikipedia.org/wiki/Umbra
+21 | natural phenomenon | 1 | https://en.wikipedia.org/wiki/Natural_phenomenon
+22 | supernatural | 1 | https://en.wikipedia.org/wiki/Supernatural
+23 | omens | 1 | https://en.wikipedia.org/wiki/Omen
+24 | astronomical | 1 | https://en.wikipedia.org/wiki/Astronomy
+25 | looking directly at the Sun | 1 | https://en.wikipedia.org/wiki/Sungazing
+26 | eclipse chasers | 1 | https://en.wikipedia.org/wiki/Eclipse_chasers
+27 | annulus | 1 | https://en.wikipedia.org/wiki/Annulus_(mathematics)
+28 | civil twilight | 1 | https://en.wikipedia.org/wiki/Civil_twilight
+29 | diameter | 1 | https://en.wikipedia.org/wiki/Diameter
+30 | degree of arc | 1 | https://en.wikipedia.org/wiki/Degree_of_arc
+31 | Apollo 12 | 1 | https://en.wikipedia.org/wiki/Apollo_12
+32 | Cassini | 1 | https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens
+33 | probe | 1 | https://en.wikipedia.org/wiki/Space_probe
+34 | elliptical | 1 | https://en.wikipedia.org/wiki/Ellipse
+35 | magnitude of an eclipse | 1 | https://en.wikipedia.org/wiki/Magnitude_of_an_eclipse
+36 | perigee | 1 | https://en.wikipedia.org/wiki/Perigee
+37 | photosphere | 1 | https://en.wikipedia.org/wiki/Photosphere
+38 | apogee | 1 | https://en.wikipedia.org/wiki/Apogee
+39 | focal point | 1 | https://en.wikipedia.org/wiki/Focus_(optics)
+40 | farthest distance from the Sun | 1 | https://en.wikipedia.org/wiki/Aphelion
+41 | closest distance to the Sun | 1 | https://en.wikipedia.org/wiki/Perihelion
+42 | on April 29, 2014 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_29,_2014
+43 | on April 9, 2043 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_9,_2043
+44 | Baily's Beads | 1 | https://en.wikipedia.org/wiki/Baily%27s_Beads
+45 | diamond ring effect | 1 | https://en.wikipedia.org/wiki/Diamond_ring_effect
+46 | penumbra | 1 | https://en.wikipedia.org/wiki/Penumbra
+47 | Moon's orbit | 1 | https://en.wikipedia.org/wiki/Orbit_of_the_Moon
+48 | nodes | 1 | https://en.wikipedia.org/wiki/Orbital_node
+49 | fixed frame of reference | 1 | https://en.wikipedia.org/wiki/Inertial_frame_of_reference
+50 | sidereal month | 1 | https://en.wikipedia.org/wiki/Sidereal_month
+51 | synodic month | 1 | https://en.wikipedia.org/wiki/Synodic_month
+52 | lunar month | 1 | https://en.wikipedia.org/wiki/Lunar_month
+53 | ascending node | 1 | https://en.wikipedia.org/wiki/Ascending_node
+54 | retrograde motion | 1 | https://en.wikipedia.org/wiki/Retrograde_motion
+55 | draconic month | 1 | https://en.wikipedia.org/wiki/Draconic_month
+56 | anomalistic month | 1 | https://en.wikipedia.org/wiki/Anomalistic_month
+57 | eclipse seasons | 1 | https://en.wikipedia.org/wiki/Eclipse_season
+58 | aphelion | 1 | https://en.wikipedia.org/wiki/Apsis
+59 | subsolar point | 1 | https://en.wikipedia.org/wiki/Subsolar_point
+60 | July 16, 2186 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_16,_2186
+61 | NASA | 1 | https://en.wikipedia.org/wiki/NASA
+62 | June 30, 1973 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_30,_1973
+63 | Concorde | 1 | https://en.wikipedia.org/wiki/Concorde
+64 | June 25, 2150 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_25,_2150
+65 | June 20, 1955 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_20,_1955
+66 | eclipse cycles | 1 | https://en.wikipedia.org/wiki/Eclipse_cycle
+67 | saros | 1 | https://en.wikipedia.org/wiki/Saros_cycle
+68 | Gregorian calendar | 1 | https://en.wikipedia.org/wiki/Gregorian_calendar
+69 | January 5 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_5,_1935
+70 | February 3 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_February_3,_1935
+71 | June 30 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_30,_1935
+72 | July 30 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_30,_1935
+73 | December 25 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_December_25,_1935
+74 | tidal acceleration | 1 | https://en.wikipedia.org/wiki/Tidal_acceleration
+75 | Antoine Caron | 1 | https://en.wikipedia.org/wiki/Antoine_Caron
+76 | solar eclipse of June 15, 763 BC | 1 | https://en.wikipedia.org/wiki/Assyrian_eclipse
+77 | Assyrian | 1 | https://en.wikipedia.org/wiki/Assyrian_people
+78 | chronology of the ancient Near East | 1 | https://en.wikipedia.org/wiki/Chronology_of_the_ancient_Near_East
+79 | Book of Joshua | 1 | https://en.wikipedia.org/wiki/Book_of_Joshua
+80 | Zhong Kang | 1 | https://en.wikipedia.org/wiki/Zhong_Kang
+81 | meteor impact | 1 | https://en.wikipedia.org/wiki/Impact_event
+82 | Indian Ocean | 1 | https://en.wikipedia.org/wiki/Indian_Ocean
+83 | flood myths | 1 | https://en.wikipedia.org/wiki/Flood_(mythology)
+84 | Herodotus | 1 | https://en.wikipedia.org/wiki/Herodotus
+85 | Thales of Miletus | 1 | https://en.wikipedia.org/wiki/Thales
+86 | an eclipse that occurred during a battle | 1 | https://en.wikipedia.org/wiki/Eclipse_of_Thales
+87 | Medes | 1 | https://en.wikipedia.org/wiki/Medes
+88 | Lydians | 1 | https://en.wikipedia.org/wiki/Lydia
+89 | Halys | 1 | https://en.wikipedia.org/wiki/Halys_River
+90 | Asia Minor | 1 | https://en.wikipedia.org/wiki/Asia_Minor
+91 | Xerxes | 1 | https://en.wikipedia.org/wiki/Xerxes_I
+92 | Greece | 1 | https://en.wikipedia.org/wiki/Ancient_Greece
+93 | John Russell Hind | 1 | https://en.wikipedia.org/wiki/John_Russell_Hind
+94 | Sardis | 1 | https://en.wikipedia.org/wiki/Sardis
+95 | Sparta | 1 | https://en.wikipedia.org/wiki/Sparta
+96 | Second Persian invasion of Greece | 1 | https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece
+97 | Shi Shen | 1 | https://en.wikipedia.org/wiki/Shi_Shen
+98 | Wang Chong | 1 | https://en.wikipedia.org/wiki/Wang_Chong
+99 | Parmenides | 1 | https://en.wikipedia.org/wiki/Parmenides
+100 | Aristotle | 1 | https://en.wikipedia.org/wiki/Aristotle
+101 | Good Friday | 1 | https://en.wikipedia.org/wiki/Good_Friday
+102 | darkness described at Jesus's crucifixion | 1 | https://en.wikipedia.org/wiki/Crucifixion_darkness_and_eclipse
+103 | Passover | 1 | https://en.wikipedia.org/wiki/Passover
+104 | Constantinople | 1 | https://en.wikipedia.org/wiki/Constantinople
+105 | Edmund Halley | 1 | https://en.wikipedia.org/wiki/Edmund_Halley
+106 | solar eclipse of May 3, 1715 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_3,_1715
+107 | 1842 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_8,_1842
+108 | daguerreotype | 1 | https://en.wikipedia.org/wiki/Daguerreotype
+109 | solar eclipse of July 28, 1851 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_28,_1851
+110 | Spectroscope | 1 | https://en.wikipedia.org/wiki/Spectroscope
+111 | solar eclipse of August 18, 1868 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_18,_1868
+112 | John Fiske | 1 | https://en.wikipedia.org/wiki/John_Fiske_(philosopher)
+113 | damage | 1 | https://en.wikipedia.org/wiki/Solar_retinopathy
+114 | retina | 1 | https://en.wikipedia.org/wiki/Retina
+115 | blindness | 1 | https://en.wikipedia.org/wiki/Blindness
+116 | Eclipse glasses | 1 | https://en.wikipedia.org/wiki/Solar_viewer
+117 | floppy disk | 1 | https://en.wikipedia.org/wiki/Floppy_disk
+118 | Compact Disc | 1 | https://en.wikipedia.org/wiki/Compact_Disc
+119 | pinhole camera | 1 | https://en.wikipedia.org/wiki/Pinhole_camera
+120 | sunspots | 1 | https://en.wikipedia.org/wiki/Sunspot
+121 | video camera | 1 | https://en.wikipedia.org/wiki/Video_camera
+122 | digital camera | 1 | https://en.wikipedia.org/wiki/Digital_camera
+123 | Baily's beads | 1 | https://en.wikipedia.org/wiki/Baily%27s_beads
+124 | chromosphere | 1 | https://en.wikipedia.org/wiki/Chromosphere
+125 | solar flare | 1 | https://en.wikipedia.org/wiki/Solar_flare
+126 | solar eclipse on August 1, 2008 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_1,_2008
+127 | Novosibirsk | 1 | https://en.wikipedia.org/wiki/Novosibirsk
+128 | Russia | 1 | https://en.wikipedia.org/wiki/Russia
+129 | long focus lens | 1 | https://en.wikipedia.org/wiki/Long_focus_lens
+130 | solar cycle | 1 | https://en.wikipedia.org/wiki/Solar_cycle
+131 | shadow bands | 1 | https://en.wikipedia.org/wiki/Shadow_bands
+132 | anisotropic | 1 | https://en.wikipedia.org/wiki/Anisotropy
+133 | Einstein | 1 | https://en.wikipedia.org/wiki/Albert_Einstein
+134 | general relativity | 1 | https://en.wikipedia.org/wiki/General_relativity
+135 | solar eclipse of May 29, 1919 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_29,_1919
+136 | Taurus | 1 | https://en.wikipedia.org/wiki/Taurus_(constellation)
+137 | Arthur Eddington | 1 | https://en.wikipedia.org/wiki/Arthur_Eddington
+138 | theoretical predictions | 1 | https://en.wikipedia.org/wiki/Predictive_power
+139 | gravitational lenses | 1 | https://en.wikipedia.org/wiki/Gravitational_lens
+140 | Maurice Allais | 1 | https://en.wikipedia.org/wiki/Maurice_Allais
+141 | Allais effect | 1 | https://en.wikipedia.org/wiki/Allais_effect
+142 | Saxl | 1 | https://en.wikipedia.org/wiki/Erwin_Saxl
+143 | Allen | 1 | https://en.wikipedia.org/wiki/Mildred_Allen
+144 | gravitational shielding | 1 | https://en.wikipedia.org/wiki/Gravitational_shielding
+145 | transit | 1 | https://en.wikipedia.org/wiki/Astronomical_transit
+146 | transit of Mercury | 1 | https://en.wikipedia.org/wiki/Transit_of_Mercury
+147 | transit of Venus | 1 | https://en.wikipedia.org/wiki/Transit_of_Venus
+148 | conjunction | 1 | https://en.wikipedia.org/wiki/Astronomical_conjunction
+149 | Vulcan | 1 | https://en.wikipedia.org/wiki/Vulcan_(hypothetical_planet)
+150 | earthshine | 1 | https://en.wikipedia.org/wiki/Earthshine
+151 | phase | 1 | https://en.wikipedia.org/wiki/Lunar_phase
+152 | Turkey | 1 | https://en.wikipedia.org/wiki/Turkey
+153 | Cyprus | 1 | https://en.wikipedia.org/wiki/Cyprus
+154 | ISS | 1 | https://en.wikipedia.org/wiki/International_Space_Station
+155 | 2006 total solar eclipse | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_29,_2006
+156 | Gemini 12 | 1 | https://en.wikipedia.org/wiki/Gemini_12
+157 | Mir | 1 | https://en.wikipedia.org/wiki/Mir
+158 | Apollo–Soyuz Test Project | 1 | https://en.wikipedia.org/wiki/Apollo%E2%80%93Soyuz_Test_Project
+159 | solar corona | 1 | https://en.wikipedia.org/wiki/Solar_corona
+160 | solar eclipse of March 20, 2015 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_20,_2015
+161 | continental Europe | 1 | https://en.wikipedia.org/wiki/Synchronous_grid_of_Continental_Europe
+162 | Great Britain | 1 | https://en.wikipedia.org/wiki/National_Grid_(Great_Britain)
+163 | gigawatts | 1 | https://en.wikipedia.org/wiki/Gigawatt
+164 | solar power | 1 | https://en.wikipedia.org/wiki/Solar_power
+165 | wind power | 1 | https://en.wikipedia.org/wiki/Wind_power
+166 | node of the Moon | 1 | https://en.wikipedia.org/wiki/Lunar_node
+167 | lunations | 1 | https://en.wikipedia.org/wiki/Lunation
+168 | saros | 1 | https://en.wikipedia.org/wiki/Saros_(astronomy)
+169 | February 15, 2018 | 1 | https://en.wikipedia.org/wiki/Solar_eclipse_of_February_15,_2018
+170 | Besselian elements | 1 | https://en.wikipedia.org/wiki/Besselian_elements
+171 | Black Sun (mythology) | 1 | https://en.wikipedia.org/wiki/Black_Sun_(mythology)
+172 | Eclipse chasing | 1 | https://en.wikipedia.org/wiki/Eclipse_chasing
+173 | Solar eclipses in fiction | 1 | https://en.wikipedia.org/wiki/Solar_eclipses_in_fiction
+174 | Solar eclipses on the Moon | 1 | https://en.wikipedia.org/wiki/Solar_eclipses_on_the_Moon
+175 | Transit of Deimos from Mars | 1 | https://en.wikipedia.org/wiki/Transit_of_Deimos_from_Mars
+176 | Transit of Phobos from Mars | 1 | https://en.wikipedia.org/wiki/Transit_of_Phobos_from_Mars
+177 | ISBN | 1 | https://en.wikipedia.org/wiki/International_Standard_Book_Number
+178 | Fred Espenak | 1 | https://en.wikipedia.org/wiki/Fred_Espenak
+179 | Wayback Machine | 1 | https://en.wikipedia.org/wiki/Wayback_Machine
+180 | European Space Agency | 1 | https://en.wikipedia.org/wiki/European_Space_Agency
+181 | Bibcode | 1 | https://en.wikipedia.org/wiki/Bibcode
+182 | doi | 1 | https://en.wikipedia.org/wiki/Digital_object_identifier
+183 | OCLC | 1 | https://en.wikipedia.org/wiki/OCLC
+184 | Perkins Observatory | 1 | https://en.wikipedia.org/wiki/Perkins_Observatory
+185 | B&H Photo Video | 1 | https://en.wikipedia.org/wiki/B%26H_Photo_Video
+186 | Phil. Trans. Roy. Soc. A | 1 | https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society_A
+187 | Physical Review D | 1 | https://en.wikipedia.org/wiki/Physical_Review_D
+188 | arXiv | 1 | https://en.wikipedia.org/wiki/ArXiv
+189 | Astronomy Picture of the Day | 1 | https://en.wikipedia.org/wiki/Astronomy_Picture_of_the_Day
+190 | European Network of Transmission System Operators for Electricity | 1 | https://en.wikipedia.org/wiki/European_Network_of_Transmission_System_Operators_for_Electricity
+191 | Proceedings of the Royal Society | 1 | https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society
+192 | Steel, Duncan | 1 | https://en.wikipedia.org/wiki/Duncan_Steel
+193 | Collier's New Encyclopedia | 1 | https://en.wikipedia.org/wiki/Collier%27s_Encyclopedia
+194 | YouTube | 1 | https://en.wikipedia.org/wiki/YouTube
