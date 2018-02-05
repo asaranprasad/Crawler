@@ -57,12 +57,13 @@ public class Crawler {
     output.close();
 
 
-    // complete pending crawls
-    while (pageCount > visited.size()) {
+    // complete downloading from pending crawls
+    while (visited.size() < pageCount) {
       String nextUrl = frontier.poll();
       if (nextUrl == null)
         continue;
       loadFromURL(nextUrl, shouldDownload);
+      System.out.println(visited.size() + ". loaded: " + nextUrl);
     }
     docsDownload.close();
   }
@@ -222,8 +223,13 @@ public class Crawler {
   private Document loadFromURL(String url, boolean shouldDownload) {
     try {
       Thread.sleep(config.getPolitenessWait());
-      visited.add(url);
+
+      // check if URL not already visited
+      if (visited.contains(url))
+        return null;
+
       Document page = Jsoup.connect(url).timeout(10000).get();
+      visited.add(url);
 
       if (shouldDownload)
         storeDocTrecFormat(url, page);
