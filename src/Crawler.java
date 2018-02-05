@@ -21,6 +21,7 @@ public class Crawler {
   private int pagesCrawled;
   PrintWriter output;
   PrintWriter docsDownload;
+  Dictionary dict;
 
 
   /* Constructor assuming default crawl config */
@@ -36,6 +37,7 @@ public class Crawler {
     visited = new HashSet<String>();
     frontier.add(config.getSeedURL());
     visited.add(config.getSeedURL());
+    dict = new Dictionary();
     pagesCrawled = 0;
   }
 
@@ -187,8 +189,41 @@ public class Crawler {
 
   /* Check if the given text has a valid variation of the keyword */
   private boolean matches(String keyword, String text) {
-    return text.contains(keyword.toLowerCase());
+    keyword = keyword.toLowerCase();
+    if (!text.contains(keyword))
+      return false;
+
+    // splits word by any unicode character that is not a letter
+    String[] words = text.split("\\P{L}+");
+    for (String word : words) {
+      if (strictMatch(word, keyword))
+        return true;
+    }
+    return false;
   }
+
+
+  /* 
+   * Tries to validate if the given word is a meaningful variation of the keyword
+   * using a dictionary of known words in English language
+   */
+  private boolean strictMatch(String word, String keyword) {
+    if (!word.contains(keyword))
+      return false;
+
+    // extract words before and after the keyword
+    String[] subWords = word.split(keyword);
+
+    boolean isValidWord = true;
+    for (String subword : subWords)
+      if (!subword.isEmpty())
+        // lookup dictionary
+        if (!dict.isValidWord(subword))
+          isValidWord = isValidWord && false;
+
+    return isValidWord;
+  }
+
 
 
   /* Set up parameters for DepthFirst crawl */

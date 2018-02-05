@@ -1,46 +1,46 @@
-import java.io.File;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Scanner;
 
 public class Tests {
 
   public static void main(String[] args) {
     CrawlConfig config = new CrawlConfig();
+    FileUtility ft = new FileUtility();
     boolean testStatus = true;
 
     // 1. Find if duplicates present
-    testStatus = findDuplicates(textFileToList(config.getBreadthFirstOutputPath()));
+    testStatus = findDuplicates(ft.textFileToList(config.getBreadthFirstOutputPath()));
     testStatus =
-        testStatus && findDuplicates(textFileToList(config.getDepthFirstOutputPath()));
+        testStatus && findDuplicates(ft.textFileToList(config.getDepthFirstOutputPath()));
     testStatus =
-        testStatus && findDuplicates(textFileToList(config.getFocusedCrawlOutputPath()));
+        testStatus
+            && findDuplicates(ft.textFileToList(config.getFocusedCrawlOutputPath()));
 
 
 
     // 2. Find URL overlap between BreadthFirst and DepthFirst traversals
-    findURLOverlap(textFileToList(config.getBreadthFirstOutputPath()),
-        textFileToList(config.getDepthFirstOutputPath()));
+    findURLOverlap(ft.textFileToList(config.getBreadthFirstOutputPath()),
+        ft.textFileToList(config.getDepthFirstOutputPath()));
 
     // 3. Verify if valid variations are present
     System.out.println("Focused Crawl - Valid Variations");
     String[] variations = {"lunar", "moon"};
     testStatus =
         testStatus && urlsHaveValidVariations(
-            textFileToList(config.getFocusedCrawlOutputPath()), variations, true);
+            ft.textFileToList(config.getFocusedCrawlOutputPath()), variations, true);
 
 
     // 4. Percentage of valid variations - BFS
     System.out.println("BFS - Valid Variations");
     variations = new String[] {"solar", "eclipse"};
-    urlsHaveValidVariations(textFileToList(config.getBreadthFirstOutputPath()),
+    urlsHaveValidVariations(ft.textFileToList(config.getBreadthFirstOutputPath()),
         variations, false);
 
     // 5. Percentage of valid variations - DFS
     System.out.println("DFS - Valid Variations");
     variations = new String[] {"solar", "eclipse"};
-    urlsHaveValidVariations(textFileToList(config.getDepthFirstOutputPath()),
+    urlsHaveValidVariations(ft.textFileToList(config.getDepthFirstOutputPath()),
         variations, false);
 
     String status = testStatus ? "Passed" : "Failed";
@@ -125,17 +125,4 @@ public class Tests {
             + (((float) overLappingURLs.size() / (float) list1.size()) * 100));
   }
 
-
-  public static List<String> textFileToList(String filePath) {
-    List<String> lines = new ArrayList<String>();
-    try {
-      Scanner sc = new Scanner(new File(filePath));
-      while (sc.hasNextLine())
-        lines.add(sc.nextLine());
-      sc.close();
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
-    return lines;
-  }
 }

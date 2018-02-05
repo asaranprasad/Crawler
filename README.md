@@ -10,7 +10,9 @@ The ./src/ folder consists of source code files
 1. CrawlCaller.java - Consists of the Main Method to kick start the program.
 2. CrawlConfig.java - Contains configurable parameters for the call.
 3. Crawler.java     - Has the crawler logic implemented.
-4. Tests.java       - Consists of tests to validate the crawler ouputs.
+4. FileUtility.java - Utility file for accessing flat files.
+5. Dictionary.java  - Accesses and maintains a dictionary of English words.
+6. Tests.java       - Consists of tests to validate the crawler ouputs.
 ```
 
 The ./output/ folder consists of sample outputs of the call
@@ -34,7 +36,14 @@ The following external library might need to be referenced to the build path, or
 </dependency>
 ```
 
-The above library has also been included in the ./externalLibrary/ folder
+
+2. English Words Collection - words.txt
+
+```
+Citation: https://github.com/dwyl/english-words/blob/master/words.txt
+```
+
+The above libraries have been included in the ./externalLibrary/ folder
 
 ### Maximum Depth Reached
 
