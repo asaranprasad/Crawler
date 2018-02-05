@@ -1,6 +1,8 @@
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -41,6 +43,7 @@ public class Crawler {
     int depth = 1;
     int pageCount = 1;
     String currentURL = frontier.poll();
+    frontier.add(null);
 
     println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
 
@@ -63,8 +66,17 @@ public class Crawler {
         return pageCount;
     }
 
-    if (depth < 6)
-      pageCount = bfs(loadFromURL(frontier.poll(), true), depth + 1, pageCount);
+    if (depth < 6) {
+      String next = frontier.poll();
+      if (next == null) {
+        frontier.add(null);
+        depth++;
+        next = frontier.poll();
+        if (next == null)
+          return pageCount;
+      }
+      pageCount = bfs(loadFromURL(next, true), depth, pageCount);
+    }
 
     return pageCount;
   }
@@ -159,18 +171,14 @@ public class Crawler {
   }
 
 
-  private Document loadFromURL(String url, boolean shouldBackup) {
+  private Document loadFromURL(String url, boolean shouldDownload) {
     try {
       Thread.sleep(config.getPolitenessWait());
       visited.add(url);
       Document page = Jsoup.connect(url).get();
 
-      if (shouldBackup) {
-        println(docsDownload, "URL: " + url);
-        println(docsDownload, page.outerHtml());
-        println(docsDownload, "--------------------------");
-      }
-
+      if (shouldDownload)
+        storeDocTrecFormat(url, page);
 
       return page;
     } catch (IOException e) {
@@ -182,8 +190,23 @@ public class Crawler {
   }
 
 
-  private void saveDoc(String string) {
-    // TODO Auto-generated method stub
+  private void storeDocTrecFormat(String url, Document page) {
+    LocalTime currentTime = LocalTime.now();
+    LocalDate currentDate = LocalDate.now();
+    String pageHtml = page.outerHtml();
 
+    println(docsDownload, "<DOC>");
+    println(docsDownload, "<DOCNO>WTX-" + currentTime + "</DOCNO>");
+    println(docsDownload, "<DOCHDR>");
+    println(docsDownload, url);
+    println(docsDownload, "Date: " + currentDate);
+    println(docsDownload, "Content-type: text/html");
+    println(docsDownload, "Content-length: " + String.valueOf(pageHtml.length()));
+    println(docsDownload, "Last-modified: " + currentDate);
+    println(docsDownload, "</DOCHDR>");
+    println(docsDownload, pageHtml);
+    println(docsDownload, "</DOC>");
   }
+
+
 }

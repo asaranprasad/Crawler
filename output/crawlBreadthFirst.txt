@@ -193,3 +193,809 @@ Count | Text | Depth | URL
 192 | Steel, Duncan | 1 | https://en.wikipedia.org/wiki/Duncan_Steel
 193 | Collier's New Encyclopedia | 1 | https://en.wikipedia.org/wiki/Collier%27s_Encyclopedia
 194 | YouTube | 1 | https://en.wikipedia.org/wiki/YouTube
+195 | France | 2 | https://en.wikipedia.org/wiki/France
+196 | Gamma | 2 | https://en.wikipedia.org/wiki/Gamma_(eclipse)
+197 | Magnitude | 2 | https://en.wikipedia.org/wiki/Magnitude_of_eclipse
+198 | UTC | 2 | https://en.wikipedia.org/wiki/UTC
+199 | Saros | 2 | https://en.wikipedia.org/wiki/Saros_(astronomy)
+200 | 145 | 2 | https://en.wikipedia.org/wiki/Solar_Saros_145
+201 | Moon | 2 | https://en.wikipedia.org/wiki/Moon
+202 | Earth | 2 | https://en.wikipedia.org/wiki/Earth
+203 | Sun | 2 | https://en.wikipedia.org/wiki/Sun
+204 | apparent diameter | 2 | https://en.wikipedia.org/wiki/Apparent_diameter
+205 | Atlantic Ocean | 2 | https://en.wikipedia.org/wiki/Atlantic_Ocean
+206 | United Kingdom | 2 | https://en.wikipedia.org/wiki/United_Kingdom
+207 | Belgium | 2 | https://en.wikipedia.org/wiki/Belgium
+208 | Luxembourg | 2 | https://en.wikipedia.org/wiki/Luxembourg
+209 | Germany | 2 | https://en.wikipedia.org/wiki/Germany
+210 | Austria | 2 | https://en.wikipedia.org/wiki/Austria
+211 | Slovenia | 2 | https://en.wikipedia.org/wiki/Slovenia
+212 | Croatia | 2 | https://en.wikipedia.org/wiki/Croatia
+213 | Hungary | 2 | https://en.wikipedia.org/wiki/Hungary
+214 | FR Yugoslavia | 2 | https://en.wikipedia.org/wiki/FR_Yugoslavia
+215 | Vojvodina | 2 | https://en.wikipedia.org/wiki/Vojvodina
+216 | Romania | 2 | https://en.wikipedia.org/wiki/Romania
+217 | Ocnele Mari | 2 | https://en.wikipedia.org/wiki/Ocnele_Mari
+218 | Râmnicu Vâlcea | 2 | https://en.wikipedia.org/wiki/R%C3%A2mnicu_V%C3%A2lcea
+219 | Bulgaria | 2 | https://en.wikipedia.org/wiki/Bulgaria
+220 | Black Sea | 2 | https://en.wikipedia.org/wiki/Black_Sea
+221 | Turkey | 2 | https://en.wikipedia.org/wiki/Turkey
+222 | Syria | 2 | https://en.wikipedia.org/wiki/Syria
+223 | Iraq | 2 | https://en.wikipedia.org/wiki/Iraq
+224 | Iran | 2 | https://en.wikipedia.org/wiki/Iran
+225 | Pakistan | 2 | https://en.wikipedia.org/wiki/Pakistan
+226 | Srikakulam | 2 | https://en.wikipedia.org/wiki/Srikakulam
+227 | India | 2 | https://en.wikipedia.org/wiki/India
+228 | Bay of Bengal | 2 | https://en.wikipedia.org/wiki/Bay_of_Bengal
+229 | 22 July 1990 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22,_1990
+230 | 29 June 1927 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_29,_1927
+231 | human history | 2 | https://en.wikipedia.org/wiki/Human_history
+232 | Mir | 2 | https://en.wikipedia.org/wiki/Mir
+233 | BBC | 2 | https://en.wikipedia.org/wiki/BBC
+234 | Cornwall | 2 | https://en.wikipedia.org/wiki/Cornwall
+235 | St Ives | 2 | https://en.wikipedia.org/wiki/St_Ives,_Cornwall
+236 | Lizard | 2 | https://en.wikipedia.org/wiki/Lizard_(village)
+237 | Patrick Moore | 2 | https://en.wikipedia.org/wiki/Patrick_Moore
+238 | BBC One | 2 | https://en.wikipedia.org/wiki/BBC_One
+239 | Balloon Idents | 2 | https://en.wikipedia.org/wiki/BBC_One_%27Balloon%27_idents
+240 | Goonhilly | 2 | https://en.wikipedia.org/wiki/Goonhilly_Satellite_Earth_Station
+241 | Lizard Peninsula | 2 | https://en.wikipedia.org/wiki/The_Lizard
+242 | Channel | 2 | https://en.wikipedia.org/wiki/English_Channel
+243 | Alderney | 2 | https://en.wikipedia.org/wiki/Alderney
+244 | Perranporth | 2 | https://en.wikipedia.org/wiki/Perranporth
+245 | Soissons | 2 | https://en.wikipedia.org/wiki/Soissons
+246 | Amiens | 2 | https://en.wikipedia.org/wiki/Amiens
+247 | Vouziers | 2 | https://en.wikipedia.org/wiki/Vouziers
+248 | Sky at Night | 2 | https://en.wikipedia.org/wiki/The_Sky_at_Night
+249 | Exploratorium | 2 | https://en.wikipedia.org/wiki/Exploratorium
+250 | Amasya | 2 | https://en.wikipedia.org/wiki/Amasya
+251 | Doordarshan | 2 | https://en.wikipedia.org/wiki/Doordarshan
+252 | Mona Bhattacharya | 2 | https://en.wikipedia.org/wiki/Monoranjan_Bhattacharya
+253 | Bulgarian Air Force | 2 | https://en.wikipedia.org/wiki/Bulgarian_Air_Force
+254 | MiG-21 | 2 | https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-21
+255 | Bulgarian Academy of Sciences | 2 | https://en.wikipedia.org/wiki/Bulgarian_Academy_of_Sciences
+256 | corona | 2 | https://en.wikipedia.org/wiki/Corona
+257 | umbra | 2 | https://en.wikipedia.org/wiki/Umbra
+258 | infrared | 2 | https://en.wikipedia.org/wiki/Infrared
+259 | Digital8 | 2 | https://en.wikipedia.org/wiki/Digital8
+260 | Lake Balaton | 2 | https://en.wikipedia.org/wiki/Lake_Balaton
+261 | Concordes | 2 | https://en.wikipedia.org/wiki/Concorde
+262 | Airport | 2 | https://en.wikipedia.org/wiki/Airport_(TV_series)
+263 | Heathrow Airport | 2 | https://en.wikipedia.org/wiki/Heathrow_Airport
+264 | Aeroflot | 2 | https://en.wikipedia.org/wiki/Aeroflot
+265 | Jeremy Spake | 2 | https://en.wikipedia.org/wiki/Jeremy_Spake
+266 | RTS | 2 | https://en.wikipedia.org/wiki/Radio_Television_of_Serbia
+267 | Serbia | 2 | https://en.wikipedia.org/wiki/Serbia
+268 | The BMJ | 2 | https://en.wikipedia.org/wiki/The_BMJ
+269 | Paderborn, Germany | 2 | https://en.wikipedia.org/wiki/Paderborn,_Germany
+270 | 2,000 lei | 2 | https://en.wikipedia.org/wiki/Two_thousand_lei
+271 | note | 2 | https://en.wikipedia.org/wiki/Banknote
+272 | nodes | 2 | https://en.wikipedia.org/wiki/Lunar_node
+273 | Chita, Russia | 2 | https://en.wikipedia.org/wiki/Chita,_Zabaykalsky_Krai
+274 | March 9, 1997 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_9,_1997
+275 | September 2, 1997 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_September_2,_1997
+276 | February 26, 1998 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_February_26,_1998
+277 | August 22, 1998 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_22,_1998
+278 | February 16, 1999 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_February_16,_1999
+279 | February 5, 2000 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_February_5,_2000
+280 | July 31, 2000 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_31,_2000
+281 | July 1, 2000 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_1,_2000
+282 | December 25, 2000 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_December_25,_2000
+283 | June 17, 1909 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_17,_1909
+284 | July 9, 1945 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_9,_1945
+285 | July 20, 1963 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_20,_1963
+286 | July 31, 1981 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_31,_1981
+287 | August 21, 2017 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017
+288 | September 2, 2035 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_September_2,_2035
+289 | September 12, 2053 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_September_12,_2053
+290 | September 23, 2071 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_September_23,_2071
+291 | October 4, 2089 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_4,_2089
+292 | metonic series | 2 | https://en.wikipedia.org/wiki/Metonic_cycle
+293 | August 12, 1942 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_1942
+294 | May 30, 1946 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_30,_1946
+295 | March 18, 1950 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_18,_1950
+296 | January 5, 1954 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_5,_1954
+297 | October 23, 1957 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_1957
+298 | August 11, 1961 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_1961
+299 | May 30, 1965 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_30,_1965
+300 | March 18, 1969 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_18,_1969
+301 | January 4, 1973 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_1973
+302 | October 23, 1976 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_1976
+303 | August 10, 1980 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_10,_1980
+304 | May 30, 1984 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_30,_1984
+305 | March 18, 1988 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_18,_1988
+306 | January 4, 1992 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_1992
+307 | October 24, 1995 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_24,_1995
+308 | May 31, 2003 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_31,_2003
+309 | March 19, 2007 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_19,_2007
+310 | January 4, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_2011
+311 | October 23, 2014 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_2014
+312 | August 11, 2018 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_2018
+313 | List of solar eclipses visible from the United Kingdom | 2 | https://en.wikipedia.org/wiki/List_of_solar_eclipses_visible_from_the_United_Kingdom
+314 | Vice | 2 | https://en.wikipedia.org/wiki/Vice_(magazine)
+315 | doi | 2 | https://en.wikipedia.org/wiki/Digital_object_identifier
+316 | PMC | 2 | https://en.wikipedia.org/wiki/PubMed_Central
+317 | PMID | 2 | https://en.wikipedia.org/wiki/PubMed_Identifier
+318 | NASA | 2 | https://en.wikipedia.org/wiki/NASA
+319 | Fred Espenak | 2 | https://en.wikipedia.org/wiki/Fred_Espenak
+320 | GSFC | 2 | https://en.wikipedia.org/wiki/GSFC
+321 | APOD | 2 | https://en.wikipedia.org/wiki/APOD
+322 | Quebec | 2 | https://en.wikipedia.org/wiki/Quebec
+323 | Canada | 2 | https://en.wikipedia.org/wiki/Canada
+324 | Sun | 2 | https://en.wikipedia.org/wiki/Sun
+325 | loop | 2 | https://en.wikipedia.org/wiki/Coronal_loops
+326 | photosphere | 2 | https://en.wikipedia.org/wiki/Photosphere
+327 | corona | 2 | https://en.wikipedia.org/wiki/Corona
+328 | ionized | 2 | https://en.wikipedia.org/wiki/Ionized
+329 | gases | 2 | https://en.wikipedia.org/wiki/Gas
+330 | plasma | 2 | https://en.wikipedia.org/wiki/Plasma_(physics)
+331 | visible light | 2 | https://en.wikipedia.org/wiki/Visible_light
+332 | chromosphere | 2 | https://en.wikipedia.org/wiki/Chromosphere
+333 | coronal mass ejections | 2 | https://en.wikipedia.org/wiki/Coronal_mass_ejection
+334 | Laurentian Codex | 2 | https://en.wikipedia.org/wiki/Laurentian_Codex
+335 | Solar eclipse of 1 May 1185 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_1_May_1185
+336 | Skylab | 2 | https://en.wikipedia.org/wiki/Skylab
+337 | Solar flare | 2 | https://en.wikipedia.org/wiki/Solar_flare
+338 | Universe Today | 2 | https://en.wikipedia.org/wiki/Universe_Today
+339 | USSR Academy of Sciences | 2 | https://en.wikipedia.org/wiki/Russian_Academy_of_Sciences
+340 | Bibcode | 2 | https://en.wikipedia.org/wiki/Bibcode
+341 | doi | 2 | https://en.wikipedia.org/wiki/Digital_object_identifier
+342 | Cambridge University Press | 2 | https://en.wikipedia.org/wiki/Cambridge_University_Press
+343 | ISBN | 2 | https://en.wikipedia.org/wiki/International_Standard_Book_Number
+344 | Tandberg-Hanssen, Einar | 2 | https://en.wikipedia.org/wiki/Einar_Tandberg-Hanssen
+345 | naked eye | 2 | https://en.wikipedia.org/wiki/Naked_eye
+346 | crown | 2 | https://en.wikipedia.org/wiki/Crown_(headgear)
+347 | plasma | 2 | https://en.wikipedia.org/wiki/Plasma_(physics)
+348 | Sun | 2 | https://en.wikipedia.org/wiki/Sun
+349 | stars | 2 | https://en.wikipedia.org/wiki/Star
+350 | coronagraph | 2 | https://en.wikipedia.org/wiki/Coronagraph
+351 | Latin | 2 | https://en.wikipedia.org/wiki/Latin_language
+352 | Ancient Greek | 2 | https://en.wikipedia.org/wiki/Ancient_Greek
+353 | spectral | 2 | https://en.wikipedia.org/wiki/Spectroscopy
+354 | coronium | 2 | https://en.wikipedia.org/wiki/Coronium
+355 | highly ionized | 2 | https://en.wikipedia.org/wiki/Highly_charged_ion
+356 | iron | 2 | https://en.wikipedia.org/wiki/Iron
+357 | Bengt Edlén | 2 | https://en.wikipedia.org/wiki/Bengt_Edl%C3%A9n
+358 | ionisation | 2 | https://en.wikipedia.org/wiki/Ionisation
+359 | kelvin | 2 | https://en.wikipedia.org/wiki/Kelvin
+360 | scattering | 2 | https://en.wikipedia.org/wiki/Scattering_(physics)
+361 | electrons | 2 | https://en.wikipedia.org/wiki/Electron
+362 | Doppler broadening | 2 | https://en.wikipedia.org/wiki/Doppler_broadening
+363 | absorption lines | 2 | https://en.wikipedia.org/wiki/Absorption_line
+364 | Fraunhofer | 2 | https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer
+365 | elongation | 2 | https://en.wikipedia.org/wiki/Elongation_(astronomy)
+366 | zodiacal light | 2 | https://en.wikipedia.org/wiki/Zodiacal_light
+367 | forbidden | 2 | https://en.wikipedia.org/wiki/Forbidden_line
+368 | spectral emission lines | 2 | https://en.wikipedia.org/wiki/Spectral_line
+369 | photosphere | 2 | https://en.wikipedia.org/wiki/Photosphere
+370 | temperature | 2 | https://en.wikipedia.org/wiki/Temperature
+371 | chromosphere | 2 | https://en.wikipedia.org/wiki/Chromosphere
+372 | magnetic field | 2 | https://en.wikipedia.org/wiki/Magnetic_field
+373 | magnetohydrodynamic waves | 2 | https://en.wikipedia.org/wiki/Magnetohydrodynamics
+374 | solar wind | 2 | https://en.wikipedia.org/wiki/Solar_wind
+375 | equatorial | 2 | https://en.wikipedia.org/wiki/Equator
+376 | coronal holes | 2 | https://en.wikipedia.org/wiki/Coronal_hole
+377 | polar | 2 | https://en.wikipedia.org/wiki/Geographical_pole
+378 | sunspot | 2 | https://en.wikipedia.org/wiki/Sunspot
+379 | solar cycle | 2 | https://en.wikipedia.org/wiki/Solar_cycle
+380 | solar minimum | 2 | https://en.wikipedia.org/wiki/Solar_minimum
+381 | differential rotation | 2 | https://en.wikipedia.org/wiki/Differential_rotation
+382 | solar maximum | 2 | https://en.wikipedia.org/wiki/Solar_maximum
+383 | coronal loops | 2 | https://en.wikipedia.org/wiki/Coronal_loop
+384 | magnetic flux | 2 | https://en.wikipedia.org/wiki/Magnetic_flux
+385 | Skylab | 2 | https://en.wikipedia.org/wiki/Skylab
+386 | Yohkoh | 2 | https://en.wikipedia.org/wiki/Yohkoh
+387 | coronal loops | 2 | https://en.wikipedia.org/wiki/Coronal_loops
+388 | solar prominences | 2 | https://en.wikipedia.org/wiki/Solar_prominences
+389 | faculae | 2 | https://en.wikipedia.org/wiki/Facula
+390 | spicules | 2 | https://en.wikipedia.org/wiki/Spicule_(solar_physics)
+391 | H? | 2 | https://en.wikipedia.org/wiki/H%CE%B1
+392 | plages | 2 | https://en.wikipedia.org/wiki/Plage_(astronomy)
+393 | flares | 2 | https://en.wikipedia.org/wiki/Solar_flare
+394 | coronal mass ejections | 2 | https://en.wikipedia.org/wiki/Coronal_mass_ejection
+395 | Moreton wave | 2 | https://en.wikipedia.org/wiki/Moreton_wave
+396 | High Resolution Coronal Imager | 2 | https://en.wikipedia.org/wiki/High_Resolution_Coronal_Imager
+397 | solar flares | 2 | https://en.wikipedia.org/wiki/Solar_flares
+398 | siphon | 2 | https://en.wikipedia.org/wiki/Siphon
+399 | evaporation | 2 | https://en.wikipedia.org/wiki/Evaporation
+400 | condensation | 2 | https://en.wikipedia.org/wiki/Condensation
+401 | symmetric | 2 | https://en.wikipedia.org/wiki/Symmetric
+402 | Sun's limb | 2 | https://en.wikipedia.org/wiki/Limb_darkening
+403 | steady state | 2 | https://en.wikipedia.org/wiki/Steady_state
+404 | TRACE | 2 | https://en.wikipedia.org/wiki/TRACE
+405 | LOS | 2 | https://en.wikipedia.org/wiki/Line-of-sight_propagation
+406 | In-situ | 2 | https://en.wikipedia.org/wiki/In-situ
+407 | Solar Probe Plus | 2 | https://en.wikipedia.org/wiki/Solar_Probe_Plus
+408 | helmet streamers | 2 | https://en.wikipedia.org/wiki/Helmet_streamer
+409 | Solar Dynamics Observatory | 2 | https://en.wikipedia.org/wiki/Solar_Dynamics_Observatory
+410 | magnetic pressure | 2 | https://en.wikipedia.org/wiki/Magnetic_pressure
+411 | state equation | 2 | https://en.wikipedia.org/wiki/State_equation
+412 | particle number density | 2 | https://en.wikipedia.org/wiki/Particle_number_density
+413 | Boltzmann constant | 2 | https://en.wikipedia.org/wiki/Boltzmann_constant
+414 | space | 2 | https://en.wikipedia.org/wiki/Space
+415 | Hertzsprung–Russell diagram | 2 | https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram
+416 | X-ray telescopes | 2 | https://en.wikipedia.org/wiki/X-ray_telescope
+417 | FK Comae Berenices | 2 | https://en.wikipedia.org/wiki/FK_Comae_Berenices
+418 | FK Com | 2 | https://en.wikipedia.org/wiki/Variable_star
+419 | Einstein Observatory | 2 | https://en.wikipedia.org/wiki/Einstein_Observatory
+420 | Hinode | 2 | https://en.wikipedia.org/wiki/Hinode
+421 | Saha equation | 2 | https://en.wikipedia.org/wiki/Saha_equation
+422 | equipartition theorem | 2 | https://en.wikipedia.org/wiki/Equipartition_theorem
+423 | STEREO | 2 | https://en.wikipedia.org/wiki/STEREO
+424 | thermal conduction | 2 | https://en.wikipedia.org/wiki/Thermal_conduction
+425 | thermal conductivity | 2 | https://en.wikipedia.org/wiki/Thermal_conductivity
+426 | Lorentz force | 2 | https://en.wikipedia.org/wiki/Lorentz_force
+427 | cyclotron | 2 | https://en.wikipedia.org/wiki/Cyclotron
+428 | Debye length | 2 | https://en.wikipedia.org/wiki/Debye_length
+429 | dynamics | 2 | https://en.wikipedia.org/wiki/Dynamics_(mechanics)
+430 | electrically conducting | 2 | https://en.wikipedia.org/wiki/Electrical_conduction
+431 | fluids | 2 | https://en.wikipedia.org/wiki/Fluid
+432 | seismology | 2 | https://en.wikipedia.org/wiki/Seismology
+433 | helioseismology | 2 | https://en.wikipedia.org/wiki/Helioseismology
+434 | scale height | 2 | https://en.wikipedia.org/wiki/Scale_height
+435 | fine structure | 2 | https://en.wikipedia.org/wiki/Fine_structure
+436 | (more unsolved problems in physics) | 2 | https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
+437 | solar physics | 2 | https://en.wikipedia.org/wiki/Solar_physics
+438 | second law of thermodynamics | 2 | https://en.wikipedia.org/wiki/Second_law_of_thermodynamics
+439 | MK | 2 | https://en.wikipedia.org/wiki/SI_prefix
+440 | transition region | 2 | https://en.wikipedia.org/wiki/Solar_transition_region
+441 | coronal radiative losses | 2 | https://en.wikipedia.org/wiki/Coronal_radiative_losses
+442 | magnetic reconnection | 2 | https://en.wikipedia.org/wiki/Magnetic_reconnection
+443 | nanoflares | 2 | https://en.wikipedia.org/wiki/Nanoflares
+444 | soft X-ray | 2 | https://en.wikipedia.org/wiki/Soft_X-ray
+445 | sounding rocket | 2 | https://en.wikipedia.org/wiki/Sounding_rocket
+446 | NASA | 2 | https://en.wikipedia.org/wiki/NASA
+447 | Parker Solar Probe | 2 | https://en.wikipedia.org/wiki/Parker_Solar_Probe
+448 | DC | 2 | https://en.wikipedia.org/wiki/Direct_current
+449 | AC | 2 | https://en.wikipedia.org/wiki/Alternating_current
+450 | Evry Schatzman | 2 | https://en.wikipedia.org/wiki/Evry_Schatzman
+451 | sound waves | 2 | https://en.wikipedia.org/wiki/Sound_waves
+452 | magneto-acoustic waves | 2 | https://en.wikipedia.org/wiki/Magneto-acoustic_wave
+453 | Alfvén waves | 2 | https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave
+454 | ultra low frequency | 2 | https://en.wikipedia.org/wiki/Ultra_low_frequency
+455 | radio waves | 2 | https://en.wikipedia.org/wiki/Radio_waves
+456 | matter | 2 | https://en.wikipedia.org/wiki/Matter
+457 | granulation | 2 | https://en.wikipedia.org/wiki/Granule_(solar_physics)
+458 | super granulation | 2 | https://en.wikipedia.org/wiki/Super_granulation
+459 | shock waves | 2 | https://en.wikipedia.org/wiki/Shock_waves
+460 | reflected | 2 | https://en.wikipedia.org/wiki/Reflection_(physics)
+461 | Solar and Heliospheric Observatory | 2 | https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory
+462 | extreme ultraviolet | 2 | https://en.wikipedia.org/wiki/Extreme_ultraviolet
+463 | photometry | 2 | https://en.wikipedia.org/wiki/Photometry_(astronomy)
+464 | millihertz | 2 | https://en.wikipedia.org/wiki/Hertz
+465 | ions | 2 | https://en.wikipedia.org/wiki/Ions
+466 | Williams College | 2 | https://en.wikipedia.org/wiki/Williams_College
+467 | WIND (spacecraft) | 2 | https://en.wikipedia.org/wiki/WIND_(spacecraft)
+468 | mercury | 2 | https://en.wikipedia.org/wiki/Mercury_(element)
+469 | seawater | 2 | https://en.wikipedia.org/wiki/Seawater
+470 | magnetic field lines | 2 | https://en.wikipedia.org/wiki/Magnetic_field_lines
+471 | topology | 2 | https://en.wikipedia.org/wiki/Topology
+472 | Eugene Parker | 2 | https://en.wikipedia.org/wiki/Eugene_Parker
+473 | ultraviolet | 2 | https://en.wikipedia.org/wiki/Ultraviolet
+474 | Colorado | 2 | https://en.wikipedia.org/wiki/Colorado
+475 | University of Oslo | 2 | https://en.wikipedia.org/wiki/University_of_Oslo
+476 | Advanced Composition Explorer | 2 | https://en.wikipedia.org/wiki/Advanced_Composition_Explorer
+477 | Alfvén waves | 2 | https://en.wikipedia.org/wiki/Alfv%C3%A9n_waves
+478 | Coronal seismology | 2 | https://en.wikipedia.org/wiki/Coronal_seismology
+479 | Geocorona | 2 | https://en.wikipedia.org/wiki/Geocorona
+480 | Heliosphere | 2 | https://en.wikipedia.org/wiki/Heliosphere
+481 | Supra-arcade downflows | 2 | https://en.wikipedia.org/wiki/Supra-arcade_downflows
+482 | X-ray astronomy | 2 | https://en.wikipedia.org/wiki/X-ray_astronomy
+483 | Types of volcanic eruptions | 2 | https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions
+484 | ISBN | 2 | https://en.wikipedia.org/wiki/International_Standard_Book_Number
+485 | Bibcode | 2 | https://en.wikipedia.org/wiki/Bibcode
+486 | doi | 2 | https://en.wikipedia.org/wiki/Digital_object_identifier
+487 | arXiv | 2 | https://en.wikipedia.org/wiki/ArXiv
+488 | PMID | 2 | https://en.wikipedia.org/wiki/PubMed_Identifier
+489 | Wayback Machine | 2 | https://en.wikipedia.org/wiki/Wayback_Machine
+490 | Middlegate, Nevada | 2 | https://en.wikipedia.org/wiki/Middlegate,_Nevada
+491 | Gamma | 2 | https://en.wikipedia.org/wiki/Gamma_(eclipse)
+492 | Magnitude | 2 | https://en.wikipedia.org/wiki/Magnitude_of_eclipse
+493 | UTC | 2 | https://en.wikipedia.org/wiki/UTC
+494 | Saros | 2 | https://en.wikipedia.org/wiki/Saros_(astronomy)
+495 | 128 | 2 | https://en.wikipedia.org/wiki/Solar_Saros_128
+496 | Eastern Hemisphere | 2 | https://en.wikipedia.org/wiki/Eastern_Hemisphere
+497 | apparent diameter | 2 | https://en.wikipedia.org/wiki/Apparent_diameter
+498 | Moon | 2 | https://en.wikipedia.org/wiki/Moon
+499 | Sun | 2 | https://en.wikipedia.org/wiki/Sun
+500 | Western Hemisphere | 2 | https://en.wikipedia.org/wiki/Western_Hemisphere
+501 | Eastern Asia | 2 | https://en.wikipedia.org/wiki/Eastern_Asia
+502 | North America | 2 | https://en.wikipedia.org/wiki/North_America
+503 | United States | 2 | https://en.wikipedia.org/wiki/United_States
+504 | solar eclipse of May 10, 1994 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_10,_1994
+505 | solar eclipse of January 15, 2010 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_15,_2010
+506 | equator | 2 | https://en.wikipedia.org/wiki/Equator
+507 | Southern China | 2 | https://en.wikipedia.org/wiki/Southern_China
+508 | antumbra | 2 | https://en.wikipedia.org/wiki/Umbra,_penumbra_and_antumbra
+509 | Guangzhou | 2 | https://en.wikipedia.org/wiki/Guangzhou
+510 | Xiamen | 2 | https://en.wikipedia.org/wiki/Xiamen
+511 | Quanzhou | 2 | https://en.wikipedia.org/wiki/Quanzhou
+512 | Fuzhou | 2 | https://en.wikipedia.org/wiki/Fuzhou
+513 | Hong Kong | 2 | https://en.wikipedia.org/wiki/Hong_Kong
+514 | Taipei, Taiwan | 2 | https://en.wikipedia.org/wiki/Taipei,_Taiwan
+515 | East China Sea | 2 | https://en.wikipedia.org/wiki/East_China_Sea
+516 | Japan | 2 | https://en.wikipedia.org/wiki/Japan
+517 | Nagoya | 2 | https://en.wikipedia.org/wiki/Nagoya
+518 | Tokyo | 2 | https://en.wikipedia.org/wiki/Tokyo
+519 | islands in the Pacific Ocean | 2 | https://en.wikipedia.org/wiki/List_of_islands_in_the_Pacific_Ocean
+520 | monsoon season | 2 | https://en.wikipedia.org/wiki/Wet_season
+521 | Oregon | 2 | https://en.wikipedia.org/wiki/Oregon
+522 | California | 2 | https://en.wikipedia.org/wiki/California
+523 | Medford, Oregon | 2 | https://en.wikipedia.org/wiki/Medford,_Oregon
+524 | Redding, California | 2 | https://en.wikipedia.org/wiki/Redding,_California
+525 | Reno, Nevada | 2 | https://en.wikipedia.org/wiki/Reno,_Nevada
+526 | Las Vegas, Nevada | 2 | https://en.wikipedia.org/wiki/Las_Vegas,_Nevada
+527 | Cedar City, Utah | 2 | https://en.wikipedia.org/wiki/Cedar_City,_Utah
+528 | Albuquerque, New Mexico | 2 | https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico
+529 | Lubbock, Texas | 2 | https://en.wikipedia.org/wiki/Lubbock,_Texas
+530 | nodes | 2 | https://en.wikipedia.org/wiki/Lunar_node
+531 | January 4, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_2011
+532 | July 1, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_1,_2011
+533 | Tromsø, Norway | 2 | https://en.wikipedia.org/wiki/Troms%C3%B8,_Norway
+534 | June 1, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_1,_2011
+535 | November 25, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_November_25,_2011
+536 | Ellis Beach, Queensland | 2 | https://en.wikipedia.org/wiki/Ellis_Beach,_Queensland
+537 | November 13, 2012 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_November_13,_2012
+538 | May 10, 2013 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_10,_2013
+539 | Accra, Ghana | 2 | https://en.wikipedia.org/wiki/Accra,_Ghana
+540 | November 3, 2013 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_November_3,_2013
+541 | April 29, 2014 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_29,_2014
+542 | Minneapolis, MN | 2 | https://en.wikipedia.org/wiki/Minneapolis,_MN
+543 | October 23, 2014 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_2014
+544 | March 17, 1904 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_17,_1904
+545 | March 28, 1922 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_28,_1922
+546 | April 7, 1940 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_7,_1940
+547 | April 19, 1958 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_19,_1958
+548 | April 29, 1976 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_29,_1976
+549 | June 1, 2030 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_1,_2030
+550 | June 11, 2048 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_11,_2048
+551 | June 22, 2066 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_22,_2066
+552 | July 3, 2084 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_3,_2084
+553 | May 21, 1993 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_21,_1993
+554 | March 9, 1997 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_9,_1997
+555 | December 25, 2000 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_December_25,_2000
+556 | October 14, 2004 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_14,_2004
+557 | August 1, 2008 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_1,_2008
+558 | March 9, 2016 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_9,_2016
+559 | December 26, 2019 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_December_26,_2019
+560 | October 14, 2023 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_14,_2023
+561 | August 2, 2027 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2,_2027
+562 | May 21, 2031 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_21,_2031
+563 | March 9, 2035 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_9,_2035
+564 | December 26, 2038 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_December_26,_2038
+565 | October 14, 2042 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_14,_2042
+566 | August 2, 2046 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2,_2046
+567 | May 20, 2050 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_20,_2050
+568 | March 9, 2054 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_9,_2054
+569 | December 26, 2057 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_December_26,_2057
+570 | October 13, 2061 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_13,_2061
+571 | August 2, 2065 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2,_2065
+572 | May 20, 2069 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_20,_2069
+573 | Keelung, Taiwan | 2 | https://en.wikipedia.org/wiki/Keelung,_Taiwan
+574 | Tokushima City | 2 | https://en.wikipedia.org/wiki/Tokushima_City
+575 | Aichi Prefecture | 2 | https://en.wikipedia.org/wiki/Aichi_Prefecture
+576 | K?fu | 2 | https://en.wikipedia.org/wiki/K%C5%8Dfu
+577 | Aoba-ku, Yokohama | 2 | https://en.wikipedia.org/wiki/Aoba-ku,_Yokohama
+578 | 23 wards | 2 | https://en.wikipedia.org/wiki/23_wards
+579 | Tokyo, Japan | 2 | https://en.wikipedia.org/wiki/Tokyo,_Japan
+580 | Kashima, Ibaraki | 2 | https://en.wikipedia.org/wiki/Kashima,_Ibaraki
+581 | Albuquerque | 2 | https://en.wikipedia.org/wiki/Albuquerque
+582 | Red Bluff, California | 2 | https://en.wikipedia.org/wiki/Red_Bluff,_California
+583 | San Francisco, California | 2 | https://en.wikipedia.org/wiki/San_Francisco,_California
+584 | Huntington Beach, California | 2 | https://en.wikipedia.org/wiki/Huntington_Beach,_California
+585 | Palm Springs, California | 2 | https://en.wikipedia.org/wiki/Palm_Springs,_California
+586 | Los Osos, California | 2 | https://en.wikipedia.org/wiki/Los_Osos,_California
+587 | San Juan Capistrano, California | 2 | https://en.wikipedia.org/wiki/San_Juan_Capistrano,_California
+588 | Nevada City, California | 2 | https://en.wikipedia.org/wiki/Nevada_City,_California
+589 | Phoenix, Arizona | 2 | https://en.wikipedia.org/wiki/Phoenix,_Arizona
+590 | Flagstaff, Arizona | 2 | https://en.wikipedia.org/wiki/Flagstaff,_Arizona
+591 | Pyramid Lake, Nevada | 2 | https://en.wikipedia.org/wiki/Pyramid_Lake,_Nevada
+592 | Wolfforth, Texas | 2 | https://en.wikipedia.org/wiki/Wolfforth,_Texas
+593 | Salt Lake City, Utah | 2 | https://en.wikipedia.org/wiki/Salt_Lake_City,_Utah
+594 | Pleasant Grove, Utah | 2 | https://en.wikipedia.org/wiki/Pleasant_Grove,_Utah
+595 | Ogden, Iowa | 2 | https://en.wikipedia.org/wiki/Ogden,_Iowa
+596 | Minneapolis, Minnesota | 2 | https://en.wikipedia.org/wiki/Minneapolis,_Minnesota
+597 | Lenexa, Kansas | 2 | https://en.wikipedia.org/wiki/Lenexa,_Kansas
+598 | Shawnee Mission Park | 2 | https://en.wikipedia.org/wiki/Shawnee_Mission,_Kansas
+599 | Minneapolis | 2 | https://en.wikipedia.org/wiki/Minneapolis
+600 | Gamma | 2 | https://en.wikipedia.org/wiki/Gamma_(eclipse)
+601 | Magnitude | 2 | https://en.wikipedia.org/wiki/Magnitude_of_eclipse
+602 | UTC | 2 | https://en.wikipedia.org/wiki/UTC
+603 | Saros | 2 | https://en.wikipedia.org/wiki/Saros_(astronomy)
+604 | 153 | 2 | https://en.wikipedia.org/wiki/Solar_Saros_153
+605 | Moon | 2 | https://en.wikipedia.org/wiki/Moon
+606 | Earth | 2 | https://en.wikipedia.org/wiki/Earth
+607 | Sun | 2 | https://en.wikipedia.org/wiki/Sun
+608 | North Pole | 2 | https://en.wikipedia.org/wiki/North_Pole
+609 | Russia | 2 | https://en.wikipedia.org/wiki/Russia
+610 | North America | 2 | https://en.wikipedia.org/wiki/North_America
+611 | Siberia | 2 | https://en.wikipedia.org/wiki/Siberia
+612 | Nunavut, Canada | 2 | https://en.wikipedia.org/wiki/Nunavut,_Canada
+613 | San Jose, California | 2 | https://en.wikipedia.org/wiki/San_Jose,_California
+614 | sunspot | 2 | https://en.wikipedia.org/wiki/Sunspot
+615 | Coralville, Iowa | 2 | https://en.wikipedia.org/wiki/Coralville,_Iowa
+616 | nodes | 2 | https://en.wikipedia.org/wiki/Lunar_node
+617 | January 4, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_2011
+618 | July 1, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_July_1,_2011
+619 | Tromsø, Norway | 2 | https://en.wikipedia.org/wiki/Troms%C3%B8,_Norway
+620 | June 1, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_June_1,_2011
+621 | November 25, 2011 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_November_25,_2011
+622 | Middlegate, Nevada | 2 | https://en.wikipedia.org/wiki/Middlegate,_Nevada
+623 | Ellis Beach, Queensland | 2 | https://en.wikipedia.org/wiki/Ellis_Beach,_Queensland
+624 | November 13, 2012 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_November_13,_2012
+625 | May 10, 2013 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_10,_2013
+626 | Accra, Ghana | 2 | https://en.wikipedia.org/wiki/Accra,_Ghana
+627 | November 3, 2013 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_November_3,_2013
+628 | April 29, 2014 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_April_29,_2014
+629 | Minneapolis, MN | 2 | https://en.wikipedia.org/wiki/Minneapolis,_MN
+630 | metonic series | 2 | https://en.wikipedia.org/wiki/Metonic_cycle
+631 | August 12, 1942 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_1942
+632 | May 30, 1946 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_30,_1946
+633 | March 18, 1950 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_18,_1950
+634 | January 5, 1954 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_5,_1954
+635 | October 23, 1957 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_1957
+636 | August 11, 1961 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_1961
+637 | May 30, 1965 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_30,_1965
+638 | March 18, 1969 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_18,_1969
+639 | January 4, 1973 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_1973
+640 | October 23, 1976 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_1976
+641 | August 10, 1980 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_10,_1980
+642 | May 30, 1984 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_30,_1984
+643 | March 18, 1988 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_18,_1988
+644 | January 4, 1992 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_January_4,_1992
+645 | October 24, 1995 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_October_24,_1995
+646 | May 31, 2003 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_May_31,_2003
+647 | March 19, 2007 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_March_19,_2007
+648 | August 11, 2018 | 2 | https://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_2018
+649 | Fred Espenak | 2 | https://en.wikipedia.org/wiki/Fred_Espenak
+650 | NASA | 2 | https://en.wikipedia.org/wiki/NASA
+651 | GSFC | 2 | https://en.wikipedia.org/wiki/GSFC
+652 | YouTube | 2 | https://en.wikipedia.org/wiki/YouTube
+653 | APOD | 2 | https://en.wikipedia.org/wiki/APOD
+654 | The Blue Marble | 2 | https://en.wikipedia.org/wiki/The_Blue_Marble
+655 | Apollo 17 | 2 | https://en.wikipedia.org/wiki/Apollo_17
+656 | Orbital characteristics | 2 | https://en.wikipedia.org/wiki/Osculating_orbit
+657 | Epoch | 2 | https://en.wikipedia.org/wiki/Epoch_(astronomy)
+658 | J2000 | 2 | https://en.wikipedia.org/wiki/J2000.0
+659 | Aphelion | 2 | https://en.wikipedia.org/wiki/Perihelion_and_aphelion
+660 | Semi-major axis | 2 | https://en.wikipedia.org/wiki/Semi-major_and_semi-minor_axes
+661 | Eccentricity | 2 | https://en.wikipedia.org/wiki/Orbital_eccentricity
+662 | Orbital period | 2 | https://en.wikipedia.org/wiki/Orbital_period
+663 | yr | 2 | https://en.wikipedia.org/wiki/Annum
+664 | orbital speed | 2 | https://en.wikipedia.org/wiki/Orbital_speed
+665 | Mean anomaly | 2 | https://en.wikipedia.org/wiki/Mean_anomaly
+666 | Inclination | 2 | https://en.wikipedia.org/wiki/Orbital_inclination
+667 | Sun | 2 | https://en.wikipedia.org/wiki/Sun
+668 | equator | 2 | https://en.wikipedia.org/wiki/Equator
+669 | invariable plane | 2 | https://en.wikipedia.org/wiki/Invariable_plane
+670 | ecliptic | 2 | https://en.wikipedia.org/wiki/Ecliptic
+671 | Longitude of ascending node | 2 | https://en.wikipedia.org/wiki/Longitude_of_the_ascending_node
+672 | Argument of perihelion | 2 | https://en.wikipedia.org/wiki/Argument_of_periapsis
+673 | Satellites | 2 | https://en.wikipedia.org/wiki/Natural_satellite
+674 | Moon | 2 | https://en.wikipedia.org/wiki/Moon
+675 | quasi-satellites | 2 | https://en.wikipedia.org/wiki/Quasi-satellite
+676 | artificial satellites | 2 | https://en.wikipedia.org/wiki/Artificial_satellite
+677 | space debris | 2 | https://en.wikipedia.org/wiki/Space_debris
+678 | Polar | 2 | https://en.wikipedia.org/wiki/Geographical_pole
+679 | Flattening | 2 | https://en.wikipedia.org/wiki/Flattening
+680 | ETRS89 | 2 | https://en.wikipedia.org/wiki/ETRS89
+681 | meridional | 2 | https://en.wikipedia.org/wiki/Meridional
+682 | Volume | 2 | https://en.wikipedia.org/wiki/Volume
+683 | 7021108320999999999?1.08321×1012 km3 | 2 | https://en.wikipedia.org/wiki/Volume_of_the_Earth
+684 | Mass | 2 | https://en.wikipedia.org/wiki/Mass
+685 | M? | 2 | https://en.wikipedia.org/wiki/Solar_mass
+686 | density | 2 | https://en.wikipedia.org/wiki/Density
+687 | Surface gravity | 2 | https://en.wikipedia.org/wiki/Surface_gravity
+688 | 7000100000000000000?1 g | 2 | https://en.wikipedia.org/wiki/Gravity_of_Earth
+689 | Moment of inertia factor | 2 | https://en.wikipedia.org/wiki/Moment_of_inertia_factor
+690 | Escape velocity | 2 | https://en.wikipedia.org/wiki/Escape_velocity
+691 | rotation period | 2 | https://en.wikipedia.org/wiki/Rotation_period
+692 | Axial tilt | 2 | https://en.wikipedia.org/wiki/Axial_tilt
+693 | Albedo | 2 | https://en.wikipedia.org/wiki/Albedo
+694 | geometric | 2 | https://en.wikipedia.org/wiki/Geometric_albedo
+695 | Bond | 2 | https://en.wikipedia.org/wiki/Bond_albedo
+696 | temp. | 2 | https://en.wikipedia.org/wiki/Temperature
+697 | Kelvin | 2 | https://en.wikipedia.org/wiki/Kelvin
+698 | pressure | 2 | https://en.wikipedia.org/wiki/Atmospheric_pressure
+699 | kPa | 2 | https://en.wikipedia.org/wiki/Pascal_(unit)
+700 | MSL | 2 | https://en.wikipedia.org/wiki/Sea_level
+701 | nitrogen | 2 | https://en.wikipedia.org/wiki/Nitrogen
+702 | oxygen | 2 | https://en.wikipedia.org/wiki/Oxygen
+703 | argon | 2 | https://en.wikipedia.org/wiki/Argon
+704 | carbon dioxide | 2 | https://en.wikipedia.org/wiki/Carbon_dioxide
+705 | water vapor | 2 | https://en.wikipedia.org/wiki/Water_vapor
+706 | climate | 2 | https://en.wikipedia.org/wiki/Climate
+707 | planet | 2 | https://en.wikipedia.org/wiki/Planet
+708 | Universe | 2 | https://en.wikipedia.org/wiki/Universe
+709 | life | 2 | https://en.wikipedia.org/wiki/Life
+710 | radiometric dating | 2 | https://en.wikipedia.org/wiki/Radiometric_dating
+711 | formed | 2 | https://en.wikipedia.org/wiki/Age_of_the_Earth
+712 | billion years ago | 2 | https://en.wikipedia.org/wiki/Bya
+713 | revolves around the Sun | 2 | https://en.wikipedia.org/wiki/Earth%27s_orbit
+714 | year | 2 | https://en.wikipedia.org/wiki/Year
+715 | rotates about its axis | 2 | https://en.wikipedia.org/wiki/Earth%27s_rotation
+716 | seasonal variations | 2 | https://en.wikipedia.org/wiki/Season
+717 | gravitational interaction | 2 | https://en.wikipedia.org/wiki/Gravity
+718 | ocean tides | 2 | https://en.wikipedia.org/wiki/Tide
+719 | Solar System | 2 | https://en.wikipedia.org/wiki/Solar_System
+720 | terrestrial planets | 2 | https://en.wikipedia.org/wiki/Terrestrial_planet
+721 | tectonic plates | 2 | https://en.wikipedia.org/wiki/Plate_tectonics
+722 | covered with water | 2 | https://en.wikipedia.org/wiki/Water_distribution_on_Earth
+723 | oceans | 2 | https://en.wikipedia.org/wiki/Ocean
+724 | continents | 2 | https://en.wikipedia.org/wiki/Continent
+725 | islands | 2 | https://en.wikipedia.org/wiki/Island
+726 | hydrosphere | 2 | https://en.wikipedia.org/wiki/Hydrosphere
+727 | Earth's polar regions | 2 | https://en.wikipedia.org/wiki/Polar_regions_of_Earth
+728 | Antarctic ice sheet | 2 | https://en.wikipedia.org/wiki/Antarctic_ice_sheet
+729 | Earth's magnetic field | 2 | https://en.wikipedia.org/wiki/Earth%27s_magnetic_field
+730 | mantle | 2 | https://en.wikipedia.org/wiki/Mantle_(geology)
+731 | Earth's history | 2 | https://en.wikipedia.org/wiki/History_of_Earth
+732 | Earth's atmosphere | 2 | https://en.wikipedia.org/wiki/Atmosphere_of_Earth
+733 | aerobic | 2 | https://en.wikipedia.org/wiki/Aerobic_organism
+734 | anaerobic organisms | 2 | https://en.wikipedia.org/wiki/Anaerobic_organism
+735 | geological history | 2 | https://en.wikipedia.org/wiki/Geological_history_of_Earth
+736 | biodiversity | 2 | https://en.wikipedia.org/wiki/Biodiversity
+737 | mass extinction events | 2 | https://en.wikipedia.org/wiki/Extinction_event
+738 | species | 2 | https://en.wikipedia.org/wiki/Species
+739 | extinct | 2 | https://en.wikipedia.org/wiki/Extinct
+740 | Over 7.6 billion humans | 2 | https://en.wikipedia.org/wiki/World_population
+741 | biosphere | 2 | https://en.wikipedia.org/wiki/Biosphere
+742 | natural resources | 2 | https://en.wikipedia.org/wiki/Natural_resources
+743 | societies | 2 | https://en.wikipedia.org/wiki/Society
+744 | cultures | 2 | https://en.wikipedia.org/wiki/Culture
+745 | about 200 sovereign states | 2 | https://en.wikipedia.org/wiki/List_of_sovereign_states
+746 | modern English | 2 | https://en.wikipedia.org/wiki/Modern_English
+747 | Middle English | 2 | https://en.wikipedia.org/wiki/Middle_English
+748 | Old English | 2 | https://en.wikipedia.org/wiki/Old_English
+749 | Germanic language | 2 | https://en.wikipedia.org/wiki/Germanic_languages
+750 | proto-Germanic | 2 | https://en.wikipedia.org/wiki/Proto-Germanic
+751 | Latin | 2 | https://en.wikipedia.org/wiki/Latin_language
+752 | Greek | 2 | https://en.wikipedia.org/wiki/Ancient_Greek_language
+753 | soil | 2 | https://en.wikipedia.org/wiki/Soil
+754 | Terra | 2 | https://en.wikipedia.org/wiki/Terra_(goddess)
+755 | Gaia | 2 | https://en.wikipedia.org/wiki/Gaia_(goddess)
+756 | personified goddess | 2 | https://en.wikipedia.org/wiki/Earth_goddess
+757 | Germanic paganism | 2 | https://en.wikipedia.org/wiki/Germanic_religion_(aboriginal)
+758 | Angles | 2 | https://en.wikipedia.org/wiki/Angles
+759 | Tacitus | 2 | https://en.wikipedia.org/wiki/Tacitus
+760 | devotees | 2 | https://en.wikipedia.org/wiki/Anglo-Saxon_paganism
+761 | Nerthus | 2 | https://en.wikipedia.org/wiki/Nerthus
+762 | Norse mythology | 2 | https://en.wikipedia.org/wiki/Norse_mythology
+763 | Jörð | 2 | https://en.wikipedia.org/wiki/J%C3%B6r%C3%B0
+764 | Thor | 2 | https://en.wikipedia.org/wiki/Thor
+765 | early Middle English | 2 | https://en.wikipedia.org/wiki/Early_Middle_English
+766 | definite | 2 | https://en.wikipedia.org/wiki/Definite
+767 | the | 2 | https://en.wikipedia.org/wiki/Definite_article
+768 | Early Modern English | 2 | https://en.wikipedia.org/wiki/Early_Modern_English
+769 | House styles | 2 | https://en.wikipedia.org/wiki/Style_guide
+770 | Oxford spelling | 2 | https://en.wikipedia.org/wiki/Oxford_spelling
+771 | billion years ago | 2 | https://en.wikipedia.org/wiki/Billion_years_ago
+772 | formation and evolution of Solar System | 2 | https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System
+773 | solar nebula | 2 | https://en.wikipedia.org/wiki/Solar_nebula
+774 | molecular cloud | 2 | https://en.wikipedia.org/wiki/Molecular_cloud
+775 | circumstellar disk | 2 | https://en.wikipedia.org/wiki/Circumstellar_disk
+776 | dust | 2 | https://en.wikipedia.org/wiki/Cosmic_dust
+777 | primordial nuclides | 2 | https://en.wikipedia.org/wiki/Primordial_nuclide
+778 | nebular theory | 2 | https://en.wikipedia.org/wiki/Nebular_theory
+779 | planetesimals | 2 | https://en.wikipedia.org/wiki/Planetesimal
+780 | accretion | 2 | https://en.wikipedia.org/wiki/Accretion_(astrophysics)
+781 | million years | 2 | https://en.wikipedia.org/wiki/Million_years
+782 | working hypothesis | 2 | https://en.wikipedia.org/wiki/Working_hypothesis
+783 | Mars | 2 | https://en.wikipedia.org/wiki/Mars
+784 | Theia | 2 | https://en.wikipedia.org/wiki/Theia_(planet)
+785 | impacted | 2 | https://en.wikipedia.org/wiki/Giant_impact_hypothesis
+786 | asteroid impacts | 2 | https://en.wikipedia.org/wiki/Impact_event
+787 | Late Heavy Bombardment | 2 | https://en.wikipedia.org/wiki/Late_Heavy_Bombardment
+788 | Hoodoos | 2 | https://en.wikipedia.org/wiki/Hoodoo_(geology)
+789 | Bryce Canyon National Park | 2 | https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park
+790 | Utah | 2 | https://en.wikipedia.org/wiki/Utah
+791 | volcanic activity | 2 | https://en.wikipedia.org/wiki/Volcano
+792 | outgassing | 2 | https://en.wikipedia.org/wiki/Outgassing
+793 | origin of the world's oceans | 2 | https://en.wikipedia.org/wiki/Origin_of_the_world%27s_oceans
+794 | protoplanets | 2 | https://en.wikipedia.org/wiki/Protoplanet
+795 | comets | 2 | https://en.wikipedia.org/wiki/Comet
+796 | this model | 2 | https://en.wikipedia.org/wiki/Faint_young_Sun_paradox
+797 | current luminosity | 2 | https://en.wikipedia.org/wiki/Solar_luminosity
+798 | solar wind | 2 | https://en.wikipedia.org/wiki/Solar_wind
+799 | to form | 2 | https://en.wikipedia.org/wiki/Phase_transition
+800 | time scales | 2 | https://en.wikipedia.org/wiki/Geologic_time_scale
+801 | supercontinents | 2 | https://en.wikipedia.org/wiki/Supercontinent
+802 | Rodinia | 2 | https://en.wikipedia.org/wiki/Rodinia
+803 | Pannotia | 2 | https://en.wikipedia.org/wiki/Pannotia
+804 | Pangaea | 2 | https://en.wikipedia.org/wiki/Pangaea
+805 | ice ages | 2 | https://en.wikipedia.org/wiki/Ice_age
+806 | Pleistocene | 2 | https://en.wikipedia.org/wiki/Pleistocene
+807 | latitude | 2 | https://en.wikipedia.org/wiki/Latitude
+808 | Life timeline | 2 | https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life
+809 | water | 2 | https://en.wikipedia.org/wiki/Water
+810 | Single-celled life | 2 | https://en.wikipedia.org/wiki/Unicellular_organism
+811 | photosynthesis | 2 | https://en.wikipedia.org/wiki/Evolution_of_photosynthesis
+812 | Eukaryotes | 2 | https://en.wikipedia.org/wiki/Eukaryote
+813 | Multicellular life | 2 | https://en.wikipedia.org/wiki/Multicellular_organism
+814 | Dinosaurs     | 2 | https://en.wikipedia.org/wiki/Dinosaur
+815 | Mammals | 2 | https://en.wikipedia.org/wiki/Mammal
+816 | Flowers | 2 | https://en.wikipedia.org/wiki/Flowering_plant
+817 | Earliest life | 2 | https://en.wikipedia.org/wiki/Earliest_known_life_forms
+818 | Earliest oxygen | 2 | https://en.wikipedia.org/wiki/Geological_history_of_oxygen
+819 | Oxygen crisis | 2 | https://en.wikipedia.org/wiki/Great_Oxygenation_Event
+820 | Ediacara biota | 2 | https://en.wikipedia.org/wiki/Ediacaran_biota
+821 | Cambrian explosion | 2 | https://en.wikipedia.org/wiki/Cambrian_explosion
+822 | Earliest humans | 2 | https://en.wikipedia.org/wiki/Human
+823 | P h a n e r o z o i c | 2 | https://en.wikipedia.org/wiki/Phanerozoic
+824 | P r o t e r o z o i c | 2 | https://en.wikipedia.org/wiki/Proterozoic
+825 | A r c h e a n | 2 | https://en.wikipedia.org/wiki/Archean
+826 | H a d e a n | 2 | https://en.wikipedia.org/wiki/Hadean
+827 | Pongola | 2 | https://en.wikipedia.org/wiki/Mesoarchean
+828 | Huronian | 2 | https://en.wikipedia.org/wiki/Huronian_glaciation
+829 | Cryogenian | 2 | https://en.wikipedia.org/wiki/Cryogenian
+830 | Andean | 2 | https://en.wikipedia.org/wiki/Andean-Saharan_glaciation
+831 | Karoo | 2 | https://en.wikipedia.org/wiki/Karoo_Ice_Age
+832 | Quaternary | 2 | https://en.wikipedia.org/wiki/Quaternary_glaciation
+833 | ice ages. | 2 | https://en.wikipedia.org/wiki/Timeline_of_glaciation
+834 | Phylogenetic tree | 2 | https://en.wikipedia.org/wiki/Phylogenetic_tree
+835 | rRNA | 2 | https://en.wikipedia.org/wiki/RRNA
+836 | Chemical reactions | 2 | https://en.wikipedia.org/wiki/Chemical_reaction
+837 | last common ancestor of all life | 2 | https://en.wikipedia.org/wiki/Last_universal_common_ancestor
+838 | photosynthesis | 2 | https://en.wikipedia.org/wiki/Photosynthesis
+839 | molecular oxygen | 2 | https://en.wikipedia.org/wiki/Molecular_oxygen
+840 | ozone layer | 2 | https://en.wikipedia.org/wiki/Ozone_layer
+841 | development of complex cells | 2 | https://en.wikipedia.org/wiki/Endosymbiotic_theory
+842 | colonies | 2 | https://en.wikipedia.org/wiki/Colony_(biology)
+843 | ultraviolet radiation | 2 | https://en.wikipedia.org/wiki/Ultraviolet_radiation
+844 | fossil | 2 | https://en.wikipedia.org/wiki/Fossil
+845 | microbial mat | 2 | https://en.wikipedia.org/wiki/Microbial_mat
+846 | sandstone | 2 | https://en.wikipedia.org/wiki/Sandstone
+847 | Western Australia | 2 | https://en.wikipedia.org/wiki/Western_Australia
+848 | biogenic | 2 | https://en.wikipedia.org/wiki/Biogenic_substance
+849 | graphite | 2 | https://en.wikipedia.org/wiki/Graphite
+850 | metasedimentary rocks | 2 | https://en.wikipedia.org/wiki/Metasediment
+851 | Western Greenland | 2 | https://en.wikipedia.org/wiki/Western_Greenland
+852 | biotic material | 2 | https://en.wikipedia.org/wiki/Biotic_material
+853 | Australian | 2 | https://en.wikipedia.org/wiki/Australia
+854 | microorganisms | 2 | https://en.wikipedia.org/wiki/Microorganism
+855 | Neoproterozoic | 2 | https://en.wikipedia.org/wiki/Neoproterozoic
+856 | Snowball Earth | 2 | https://en.wikipedia.org/wiki/Snowball_Earth
+857 | most recent such event | 2 | https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Tertiary_extinction_event
+858 | an asteroid impact | 2 | https://en.wikipedia.org/wiki/Chicxulub_impactor
+859 | avian | 2 | https://en.wikipedia.org/wiki/Bird
+860 | shrews | 2 | https://en.wikipedia.org/wiki/Shrew
+861 | Orrorin tugenensis | 2 | https://en.wikipedia.org/wiki/Orrorin_tugenensis
+862 | evolution of humans | 2 | https://en.wikipedia.org/wiki/Human_evolution
+863 | development of agriculture | 2 | https://en.wikipedia.org/wiki/History_of_agriculture
+864 | civilization | 2 | https://en.wikipedia.org/wiki/List_of_ancient_civilizations
+865 | influence on Earth | 2 | https://en.wikipedia.org/wiki/Human_impact_on_the_environment
+866 | inorganic | 2 | https://en.wikipedia.org/wiki/Inorganic
+867 | CO2 cycle | 2 | https://en.wikipedia.org/wiki/Carbon_cycle
+868 | ppm | 2 | https://en.wikipedia.org/wiki/Parts_per_million
+869 | C4 photosynthesis | 2 | https://en.wikipedia.org/wiki/C4_carbon_fixation
+870 | °C | 2 | https://en.wikipedia.org/wiki/Celsius
+871 | °F | 2 | https://en.wikipedia.org/wiki/Fahrenheit
+872 | evolve | 2 | https://en.wikipedia.org/wiki/Stellar_evolution
+873 | red giant | 2 | https://en.wikipedia.org/wiki/Red_giant
+874 | AU | 2 | https://en.wikipedia.org/wiki/Astronomical_unit
+875 | tidal effects | 2 | https://en.wikipedia.org/wiki/Tidal_acceleration
+876 | oblate spheroidal | 2 | https://en.wikipedia.org/wiki/Oblate_spheroid
+877 | rotation | 2 | https://en.wikipedia.org/wiki/Rotation
+878 | bulging | 2 | https://en.wikipedia.org/wiki/Equatorial_bulge
+879 | center of mass | 2 | https://en.wikipedia.org/wiki/Center_of_mass
+880 | Chimborazo | 2 | https://en.wikipedia.org/wiki/Chimborazo_(volcano)
+881 | Ecuador | 2 | https://en.wikipedia.org/wiki/Ecuador
+882 | topography | 2 | https://en.wikipedia.org/wiki/Topography
+883 | Mariana Trench | 2 | https://en.wikipedia.org/wiki/Mariana_Trench
+884 | Mount Everest | 2 | https://en.wikipedia.org/wiki/Mount_Everest
+885 | geodesy | 2 | https://en.wikipedia.org/wiki/Geodesy
+886 | geoid | 2 | https://en.wikipedia.org/wiki/Geoid
+887 | mean sea level | 2 | https://en.wikipedia.org/wiki/Mean_sea_level
+888 | silica | 2 | https://en.wikipedia.org/wiki/Silica
+889 | alumina | 2 | https://en.wikipedia.org/wiki/Aluminum_oxide
+890 | lime | 2 | https://en.wikipedia.org/wiki/Calcium_oxide
+891 | magnesia | 2 | https://en.wikipedia.org/wiki/Magnesium_oxide
+892 | iron(II) oxide | 2 | https://en.wikipedia.org/wiki/Iron(II)_oxide
+893 | sodium oxide | 2 | https://en.wikipedia.org/wiki/Sodium_oxide
+894 | potassium oxide | 2 | https://en.wikipedia.org/wiki/Potassium_oxide
+895 | iron(III) oxide | 2 | https://en.wikipedia.org/wiki/Iron(III)_oxide
+896 | water | 2 | https://en.wikipedia.org/wiki/Water_(molecule)
+897 | titanium dioxide | 2 | https://en.wikipedia.org/wiki/Titanium_dioxide
+898 | phosphorus pentoxide | 2 | https://en.wikipedia.org/wiki/Phosphorus_pentoxide
+899 | Earth's mass | 2 | https://en.wikipedia.org/wiki/Earth_mass
+900 | kg | 2 | https://en.wikipedia.org/wiki/Kilogram
+901 | Yg | 2 | https://en.wikipedia.org/wiki/Yottagram
+902 | iron | 2 | https://en.wikipedia.org/wiki/Iron
+903 | silicon | 2 | https://en.wikipedia.org/wiki/Silicon
+904 | magnesium | 2 | https://en.wikipedia.org/wiki/Magnesium
+905 | sulfur | 2 | https://en.wikipedia.org/wiki/Sulfur
+906 | nickel | 2 | https://en.wikipedia.org/wiki/Nickel
+907 | calcium | 2 | https://en.wikipedia.org/wiki/Calcium
+908 | aluminium | 2 | https://en.wikipedia.org/wiki/Aluminium
+909 | mass segregation | 2 | https://en.wikipedia.org/wiki/Mass_segregation
+910 | chemical | 2 | https://en.wikipedia.org/wiki/Chemical
+911 | rheological | 2 | https://en.wikipedia.org/wiki/Rheology
+912 | silicate | 2 | https://en.wikipedia.org/wiki/Silicate_minerals
+913 | viscous | 2 | https://en.wikipedia.org/wiki/Viscous
+914 | Mohorovi?i? discontinuity | 2 | https://en.wikipedia.org/wiki/Mohorovi%C4%8Di%C4%87_discontinuity
+915 | km | 2 | https://en.wikipedia.org/wiki/Kilometre
+916 | upper mantle | 2 | https://en.wikipedia.org/wiki/Upper_mantle
+917 | asthenosphere | 2 | https://en.wikipedia.org/wiki/Asthenosphere
+918 | transition zone | 2 | https://en.wikipedia.org/wiki/Transition_zone_(Earth)
+919 | outer core | 2 | https://en.wikipedia.org/wiki/Outer_core
+920 | inner core | 2 | https://en.wikipedia.org/wiki/Inner_core
+921 | angular velocity | 2 | https://en.wikipedia.org/wiki/Angular_velocity
+922 | internal heat | 2 | https://en.wikipedia.org/wiki/Internal_heat
+923 | planetary accretion | 2 | https://en.wikipedia.org/wiki/Planetary_accretion
+924 | radioactive decay | 2 | https://en.wikipedia.org/wiki/Radioactive_decay
+925 | isotopes | 2 | https://en.wikipedia.org/wiki/Isotope
+926 | potassium-40 | 2 | https://en.wikipedia.org/wiki/Potassium-40
+927 | uranium-238 | 2 | https://en.wikipedia.org/wiki/Uranium-238
+928 | thorium-232 | 2 | https://en.wikipedia.org/wiki/Thorium-232
+929 | GPa | 2 | https://en.wikipedia.org/wiki/GPa
+930 | mantle convection | 2 | https://en.wikipedia.org/wiki/Mantle_convection
+931 | komatiites | 2 | https://en.wikipedia.org/wiki/Komatiites
+932 | mantle plumes | 2 | https://en.wikipedia.org/wiki/Mantle_plume
+933 | hotspots | 2 | https://en.wikipedia.org/wiki/Hotspot_(geology)
+934 | flood basalts | 2 | https://en.wikipedia.org/wiki/Flood_basalt
+935 | mid-ocean ridges | 2 | https://en.wikipedia.org/wiki/Mid-ocean_ridge
+936 | Earth's major plates | 2 | https://en.wikipedia.org/wiki/List_of_tectonic_plates
+937 | Pacific Plate | 2 | https://en.wikipedia.org/wiki/Pacific_Plate
+938 | African Plate | 2 | https://en.wikipedia.org/wiki/African_Plate
+939 | North American Plate | 2 | https://en.wikipedia.org/wiki/North_American_Plate
+940 | Eurasian Plate | 2 | https://en.wikipedia.org/wiki/Eurasian_Plate
+941 | Antarctic Plate | 2 | https://en.wikipedia.org/wiki/Antarctic_Plate
+942 | Indo-Australian Plate | 2 | https://en.wikipedia.org/wiki/Indo-Australian_Plate
+943 | South American Plate | 2 | https://en.wikipedia.org/wiki/South_American_Plate
+944 | convergent boundaries | 2 | https://en.wikipedia.org/wiki/Convergent_boundary
+945 | divergent boundaries | 2 | https://en.wikipedia.org/wiki/Divergent_boundary
+946 | transform boundaries | 2 | https://en.wikipedia.org/wiki/Transform_boundary
+947 | Earthquakes | 2 | https://en.wikipedia.org/wiki/Earthquake
+948 | volcanic activity | 2 | https://en.wikipedia.org/wiki/Volcanism
+949 | mountain-building | 2 | https://en.wikipedia.org/wiki/Orogeny
+950 | oceanic trench | 2 | https://en.wikipedia.org/wiki/Oceanic_trench
+951 | mountain | 2 | https://en.wikipedia.org/wiki/Mountain
+952 | subducted | 2 | https://en.wikipedia.org/wiki/Subduction
+953 | oceanic crust | 2 | https://en.wikipedia.org/wiki/Oceanic_crust
+954 | continental crust | 2 | https://en.wikipedia.org/wiki/Continental_crust
+955 | Arabian Plate | 2 | https://en.wikipedia.org/wiki/Arabian_Plate
+956 | Caribbean Plate | 2 | https://en.wikipedia.org/wiki/Caribbean_Plate
+957 | Nazca Plate | 2 | https://en.wikipedia.org/wiki/Nazca_Plate
+958 | Scotia Plate | 2 | https://en.wikipedia.org/wiki/Scotia_Plate
+959 | Cocos Plate | 2 | https://en.wikipedia.org/wiki/Cocos_Plate
+960 | altimetry | 2 | https://en.wikipedia.org/wiki/Terrain
+961 | bathymetry | 2 | https://en.wikipedia.org/wiki/Bathymetry
+962 | National Geophysical Data Center | 2 | https://en.wikipedia.org/wiki/National_Geophysical_Data_Center
+963 | continental shelf | 2 | https://en.wikipedia.org/wiki/Continental_shelf
+964 | submarine canyons | 2 | https://en.wikipedia.org/wiki/Submarine_canyon
+965 | oceanic plateaus | 2 | https://en.wikipedia.org/wiki/Oceanic_plateau
+966 | landforms | 2 | https://en.wikipedia.org/wiki/Landform
+967 | Tectonics and erosion | 2 | https://en.wikipedia.org/wiki/Erosion_and_tectonics
+968 | volcanic eruptions | 2 | https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions
+969 | flooding | 2 | https://en.wikipedia.org/wiki/Flooding
+970 | weathering | 2 | https://en.wikipedia.org/wiki/Weathering
+971 | glaciation | 2 | https://en.wikipedia.org/wiki/Glaciation
+972 | coral reefs | 2 | https://en.wikipedia.org/wiki/Coral_reef
+973 | geological time | 2 | https://en.wikipedia.org/wiki/Geological_time
+974 | granite | 2 | https://en.wikipedia.org/wiki/Granite
+975 | andesite | 2 | https://en.wikipedia.org/wiki/Andesite
+976 | basalt | 2 | https://en.wikipedia.org/wiki/Basalt
+977 | Sedimentary rock | 2 | https://en.wikipedia.org/wiki/Sedimentary_rock
+978 | compacted together | 2 | https://en.wikipedia.org/wiki/Diagenesis
+979 | metamorphic rock | 2 | https://en.wikipedia.org/wiki/Metamorphic_rock
+980 | silicate minerals | 2 | https://en.wikipedia.org/wiki/Silicate_mineral
+981 | quartz | 2 | https://en.wikipedia.org/wiki/Quartz
+982 | feldspars | 2 | https://en.wikipedia.org/wiki/Feldspar
+983 | amphibole | 2 | https://en.wikipedia.org/wiki/Amphibole
+984 | mica | 2 | https://en.wikipedia.org/wiki/Mica
+985 | pyroxene | 2 | https://en.wikipedia.org/wiki/Pyroxene
+986 | olivine | 2 | https://en.wikipedia.org/wiki/Olivine
+987 | carbonate minerals | 2 | https://en.wikipedia.org/wiki/Carbonate_mineral
+988 | calcite | 2 | https://en.wikipedia.org/wiki/Calcite
+989 | limestone | 2 | https://en.wikipedia.org/wiki/Limestone
+990 | dolomite | 2 | https://en.wikipedia.org/wiki/Dolomite
+991 | Dead Sea | 2 | https://en.wikipedia.org/wiki/Dead_Sea
+992 | pedosphere | 2 | https://en.wikipedia.org/wiki/Pedosphere
+993 | soil formation processes | 2 | https://en.wikipedia.org/wiki/Pedogenesis
+994 | Challenger Deep | 2 | https://en.wikipedia.org/wiki/Challenger_Deep
+995 | metric tons | 2 | https://en.wikipedia.org/wiki/Metric_ton
+996 | saline | 2 | https://en.wikipedia.org/wiki/Saline_water
+997 | fresh water | 2 | https://en.wikipedia.org/wiki/Fresh_water
+998 | ice caps | 2 | https://en.wikipedia.org/wiki/Ice_cap
+999 | glaciers | 2 | https://en.wikipedia.org/wiki/Glacier
+1000 | salinity | 2 | https://en.wikipedia.org/wiki/Salinity
