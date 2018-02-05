@@ -38,6 +38,12 @@ public class Crawler {
   public void crawlBreadthFirst(boolean isFocused) throws FileNotFoundException {
     docsDownload = new PrintWriter(config.getdocsDownloadPath());
     output = new PrintWriter(config.getOutputFolderPath() + "crawlBreadthFirst.txt");
+    boolean shouldDownload = true;
+    if (isFocused) {
+      output = new PrintWriter(config.getOutputFolderPath() + "crawlFocused.txt");
+      shouldDownload = false;
+    }
+
     println(output, "Count | Text | Depth | URL");
 
     int depth = 1;
@@ -47,12 +53,26 @@ public class Crawler {
 
     println(output, pageCount + " | Seed | " + depth + " | " + currentURL);
 
-    bfs(loadFromURL(currentURL, true), depth, pageCount);
+    pageCount = bfs(loadFromURL(currentURL, shouldDownload), depth, pageCount, isFocused);
     output.close();
+
+
+    // complete pending crawls
+    while (pageCount > visited.size()) {
+      String nextUrl = frontier.poll();
+      if (nextUrl == null)
+        continue;
+      loadFromURL(nextUrl, shouldDownload);
+    }
+    docsDownload.close();
   }
 
-  private int bfs(Document page, int depth, int pageCount) {
+
+  private int bfs(Document page, int depth, int pageCount, boolean isFocused) {
     List<String[]> urlTxtPairs = getValidURLsFromPage(page);
+
+    if (isFocused)
+      performFocusedFilter(urlTxtPairs);
 
     for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
       String text = urlTxtPairs.get(i)[1];
@@ -75,12 +95,40 @@ public class Crawler {
         if (next == null)
           return pageCount;
       }
-      pageCount = bfs(loadFromURL(next, true), depth, pageCount);
+      pageCount = bfs(loadFromURL(next, !isFocused), depth, pageCount, isFocused);
     }
-
     return pageCount;
   }
 
+
+  private void performFocusedFilter(List<String[]> urlTxtPairs) {
+    Iterator<String[]> pairIter = urlTxtPairs.iterator();
+    while (pairIter.hasNext()) {
+      String[] urlTxtPair = (String[]) pairIter.next();
+      // Case Folding
+      String url = urlTxtPair[0].toLowerCase();
+      String text = urlTxtPair[1].toLowerCase();
+
+      // Parsing the article name from the url
+      String articleName = url.substring(url.lastIndexOf('/') + 1, url.length());
+
+      // if both articleName and text doesn't match with any of the keywords 
+      int unmatched = 0;
+      for (String keyword : config.getFocusedCrawlKeywords())
+        if (matches(keyword, articleName) || matches(keyword, text))
+          break;
+        else
+          unmatched++;
+
+      if (unmatched == config.getFocusedCrawlKeywords().size())
+        pairIter.remove();
+    }
+  }
+
+
+  private boolean matches(String keyword, String text) {
+    return text.contains(keyword.toLowerCase());
+  }
 
 
   public void crawlDepthFirst() throws FileNotFoundException {
@@ -175,7 +223,7 @@ public class Crawler {
     try {
       Thread.sleep(config.getPolitenessWait());
       visited.add(url);
-      Document page = Jsoup.connect(url).get();
+      Document page = Jsoup.connect(url).timeout(10000).get();
 
       if (shouldDownload)
         storeDocTrecFormat(url, page);
